@@ -1,0 +1,228 @@
+{
+  "Puducherry eProc": {
+    "site": "Puducherry eProc",
+    "url": "https://pudutenders.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Assam eProc": {
+    "site": "Assam eProc",
+    "url": "https://assamtenders.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Bharat Electronics Limited": {
+    "site": "Bharat Electronics Limited",
+    "url": "https://eprocurebel.co.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Jharkhand eProc": {
+    "site": "Jharkhand eProc",
+    "url": "https://jharkhandtenders.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Punjab eProc": {
+    "site": "Punjab eProc",
+    "url": "https://eproc.punjab.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Ladakh eProc": {
+    "site": "Ladakh eProc",
+    "url": "https://tenders.ladakh.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Uttar Pradesh eProc": {
+    "site": "Uttar Pradesh eProc",
+    "url": "https://etender.up.nic.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "NTPC eProc": {
+    "site": "NTPC eProc",
+    "url": "https://eprocurentpc.nic.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Sikkim eProc": {
+    "site": "Sikkim eProc",
+    "url": "https://sikkimtender.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Coal India eProc": {
+    "site": "Coal India eProc",
+    "url": "https://coalindiatenders.nic.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Chandigarh eProc": {
+    "site": "Chandigarh eProc",
+    "url": "https://etenders.chd.nic.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Gujarat eProc": {
+    "site": "Gujarat eProc",
+    "url": "https://tender.nprocure.com",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Arunachal eProc": {
+    "site": "Arunachal eProc",
+    "url": "https://arunachaltenders.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Uttarakhand eProc": {
+    "site": "Uttarakhand eProc",
+    "url": "https://tendersutl.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Haryana eProc": {
+    "site": "Haryana eProc",
+    "url": "https://etenders.hry.nic.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Bihar eProc": {
+    "site": "Bihar eProc",
+    "url": "https://eproc2.bihar.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "CPCLE Tenders": {
+    "site": "CPCLE Tenders",
+    "url": "https://cpcletenders.nic.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Meghalaya eProc": {
+    "site": "Meghalaya eProc",
+    "url": "https://meghalayatenders.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Dadra & Nagar Haveli eProc": {
+    "site": "Dadra & Nagar Haveli eProc",
+    "url": "https://dnhtenders.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "BHEL eProc": {
+    "site": "BHEL eProc",
+    "url": "https://eprocurebhel.co.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Defence eProc": {
+    "site": "Defence eProc",
+    "url": "https://defproc.gov.in",
+    "tenders_found": 2,
+    "downloaded": 2,
+    "failed": 0,
+    "details": [
+      {
+        "link": "https://defproc.gov.in/nicgep/app?component=%24DirectLink_3&page=Home&service=direct&session=T&sp=SSecurity_Audit_Report.pdf",
+        "file": "raw_document/Defence eProc/app?component=%24DirectLink_3&page=Home&service=direct&session=T&sp=SSecurity_Audit_Report.pdf",
+        "status": "downloaded"
+      },
+      {
+        "link": "https://eprocure.gov.in/cppp/hassle_free_bid_submission.pdf",
+        "file": "raw_document/Defence eProc/hassle_free_bid_submission.pdf",
+        "status": "downloaded"
+      }
+    ]
+  },
+  "Delhi eProc": {
+    "site": "Delhi eProc",
+    "url": "https://govtprocurement.delhi.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Government of India eProc": {
+    "site": "Government of India eProc",
+    "url": "https://eprocure.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "SECI Tenders": {
+    "site": "SECI Tenders",
+    "url": "https://www.seci.co.in/",
+    "tenders_found": 2,
+    "downloaded": 2,
+    "failed": 0
+  },
+  "Telangana eProc": {
+    "site": "Telangana eProc",
+    "url": "https://tender.telangana.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Andhra Pradesh eProc": {
+    "site": "Andhra Pradesh eProc",
+    "url": "https://tender.apeprocurement.gov.in",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  },
+  "Bihar eProc (EPSV2)": {
+    "site": "Bihar eProc (EPSV2)",
+    "url": "https://eproc2.bihar.gov.in/EPSV2Web",
+    "tenders_found": 0,
+    "downloaded": 0,
+    "failed": 0,
+    "details": []
+  }
+}

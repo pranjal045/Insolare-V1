@@ -1,0 +1,6 @@
+{
+    "epochs": 5,
+    "batch_size": 16,
+    "learning_rate": 2e-5,
+    "optimizer": "adamw"
+  }

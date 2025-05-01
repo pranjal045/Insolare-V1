@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+boto3
+psycopg2-binary
+pymongo
+pytesseract
+Pillow
+sentence-transformers
+transformers
+datasets
+pyyaml
+python-docx

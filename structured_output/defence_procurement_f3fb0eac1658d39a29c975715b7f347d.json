@@ -1,0 +1,15 @@
+{
+    "source_file": "defence_procurement_f3fb0eac1658d39a29c975715b7f347d.pdf",
+    "raw_text": "ANJAY \nRATANLAL \nAGARWAL\nDigitally signed by ANJAY RATANLAL AGARWAL \nDN: c=IN, o=AAA TECHNOLOGIES LIMITED, \n2.5.4.20=263c3649bd396c5ce504937e9cda03a0a25\ne9310ca648b884e2f1d697947a4c3, \nou=DIRECTOR,CID - 6902346, postalCode=400072, \nst=Maharashtra, \nserialNumber=f22174cfcef7a586f7c4b0793eee29b4\ned4b4f265b311c2c9ba8a1898fbb46a3, cn=ANJAY \nRATANLAL AGARWAL \nDate: 2024.08.26 15:27:21 +05'30'\n",
+    "normalized_text": "anjay ratanlal agarwal digitally signed by anjay ratanlal agarwal dn: c=in, o=aaa technologies limited, 2.5.4.20=263c3649bd396c5ce504937e9cda03a0a25 e9310ca648b884e2f1d697947a4c3, ou=director,cid - 6902346, postalcode=400072, st=maharashtra, serialnumber=f22174cfcef7a586f7c4b0793eee29b4 ed4b4f265b311c2c9ba8a1898fbb46a3, cn=anjay ratanlal agarwal date: 2024.08.26 15:27:21 +05'30'",
+    "chunks": [
+        "anjay ratanlal agarwal digitally signed by anjay ratanlal agarwal dn: c=in, o=aaa technologies limited, 2 5 4 20=263c3649bd396c5ce504937e9cda03a0a25 e9310ca648b884e2f1d697947a4c3, ou=director,cid - 6902346, postalcode=400072, st=maharashtra, serialnumber=f22174cfcef7a586f7c4b0793eee29b4 ed4b4f265b311c2c9ba8a1898fbb46a3, cn=anjay ratanlal agarwal date: 2024 08 26 15:27:21 +05'30'"
+    ],
+    "document_type": "Technical Specification",
+    "extracted_fields": {
+        "name": "",
+        "email": "",
+        "city": ""
+    },
+    "error": null
+}

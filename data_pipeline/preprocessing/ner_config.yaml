@@ -1,0 +1,17 @@
+entities:
+  - name: PPA_clause
+    patterns:
+      - "power purchase agreement"
+      - "ppa"
+  - name: EPC_clause
+    patterns:
+      - "engineering, procurement, and construction"
+      - "epc"
+  - name: MNRE_regulation
+    patterns:
+      - "ministry of new and renewable energy"
+      - "mnre"
+  - name: penalty_clause
+    patterns:
+      - "penalty"
+      - "liquidated damages"

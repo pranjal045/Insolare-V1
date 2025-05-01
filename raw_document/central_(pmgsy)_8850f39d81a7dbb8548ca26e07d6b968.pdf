@@ -1,0 +1,3302 @@
+<head>
+	<base target="_self">
+	<title>eProcurement System for Pradhan Mantri Gram Sadak Yojana (PMGSY)</title>
+</head>
+<!-- BEGIN: HEADER -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title>eProcurement System</title>
+<script type="text/javascript">djConfig = {"baseRelativePath":"/nicgep/app?service=asset&path=%2Fgep%2F","parseWidgets":false,"locale":"en-us"} </script>
+
+<script type="text/javascript" src="/nicgep/app?service=asset&path=%2Fgep%2Fgep.js"></script>
+<script type="text/javascript">
+dojo.registerModulePath("tapestry", "/nicgep/app?service=asset&path=%2Ftapestry%2F");
+</script>
+<script type="text/javascript" src="/nicgep/app?service=asset&path=%2Ftapestry%2Fcore.js"></script>
+<script type="text/javascript">
+dojo.require("tapestry.namespace");
+tapestry.requestEncoding='UTF-8';
+</script>
+<link rel="stylesheet" type="text/css" href="/nicgep/css/nicgep_web_style.css" />
+</head>
+<head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<noscript>
+	<meta http-equiv="Refresh" content="2;url=https://pmgsytenders.gov.in/nicgep/app?page=ErrorNotice&amp;service=page" id="Any"></meta> 
+</noscript>
+<link href="includes/dialog/dialog_box.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/nation.ico" ></link>
+<link href="includes/dialog/nicgep_color_theme.css" rel="stylesheet" type="text/css">
+
+
+
+<!-- Javascript -->
+<script language="JavaScript" type="text/JavaScript" src="includes/evaluator.js"></script>
+<script language="javascript" src="includes/MessageDigest.js" ></script>
+<script language="JavaScript" type="text/JavaScript" src="includes/dialog/dialog_box.js"></script>
+<!-- End -->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+	function MM_swapImgRestore() { //v3.0
+	  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+	}
+	
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+	    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+	    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+	
+	function MM_findObj(n, d) { //v4.01
+	  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+	  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+	  if(!x && d.getElementById) x=d.getElementById(n); return x;
+	}
+	
+	function MM_swapImage() { //v3.0
+	  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+	}
+//-->
+</script>
+
+</head>
+
+
+<body onLoad="MM_preloadImages('images/homeb.png','images/contactb.png','images/sitemapb.png')" onunload="" onpageshow="if (event.persisted) noBack();" id="Body">
+
+	
+	<script type="text/javascript">
+
+	if(navigator.appName == 'Microsoft Internet Explorer')
+	{
+	document.onkeydown = fnCheckKeysMIE;
+	}
+	else if(navigator.appName == 'Netscape')
+	{
+	document.onkeydown = fnCheckKeysNMF;
+	}
+	
+	function fnCheckKeysNMF(event)
+	{
+	
+	var e=event? event : window.event;
+	var event_element=e.target? e.target : e.srcElement;
+	
+	if (event.ctrlKey && (event.keyCode==78 || event.keyCode==84 || event.which==78 || event.which==84))
+	{
+	return false;
+	}
+	
+	if (event.altKey && (event.keyCode==37 || event.which==37))
+	{
+	return false;
+	}
+	
+	if (event.keyCode==8 && (event_element.tagName != 'INPUT' && event_element.tagName != 'TEXTAREA'))
+	{
+	return false;
+	}
+	
+	}
+	
+	function fnCheckKeysMIE()
+	{
+	
+	var e=event? event : window.event;
+	var event_element=e.target? e.target : e.srcElement;
+	
+	if (event.ctrlKey && (event.keyCode==78 || event.keyCode==84 || event.which==78 || event.which==84))
+	{
+	return false;
+	}
+	
+	if (event.altKey && (event.keyCode==37 || event.which==37))
+	{
+	return false;
+	}
+	
+	if (event.keyCode==8 && (event_element.tagName != 'INPUT' && event_element.tagName != 'TEXTAREA'))
+	{
+	return false;
+	}
+	
+	}
+
+	window.history.forward();
+	function noBack(){ window.history.forward(); }
+	
+	</script>
+		
+	<div id="content">
+		<table width="1004" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+			<tr>
+				<td valign="top" height="40">
+					<table width="1000" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr> 
+    <td>
+		<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" id="Menu">
+		 <td width="210" height="22" align="right" class="date topBannerGradient"><a id="link1" name="link1" class="Menu" href="/nicgep/app?page=WebScreenReaderAccess&amp;service=page">Screen Reader Access</a>
+				
+		  </td>
+		</table>
+		</td>
+		</tr>
+   <tr> 
+    <td width="1005"><img border="0" width="1005" alt="Logo" src="images/topban.png" usemap="#Map" height="83" id="Any_0"></img></td>
+  </tr>		
+  <tr>
+    <td height="1" class="topBannerLine"></td>
+  </tr>
+
+  <tr> 
+    <td>
+		<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" id="Menu">
+        <tr> 
+          <td width="210" height="22" align="center" class="date primaryBg">
+				30-Apr-2025 
+		  </td>
+          <td align="center" class="secondaryBg">
+	           <span id="If">
+					<span id="For">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Search" class="Menu" href="/nicgep/app?page=FrontEndAdvancedSearch&amp;service=page" target="_self">Search</a>
+						</span>
+						<span class="divider1" id="Insert_2">|</span>
+					</span><span id="For_0">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Active Tenders" class="Menu" href="/nicgep/app?page=FrontEndLatestActiveTenders&amp;service=page" target="_self">Active Tenders</a>
+						</span>
+						<span class="divider1" id="Insert_2_0">|</span>
+					</span><span id="For_1">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Tenders by Closing Date" class="Menu" href="/nicgep/app?page=FrontEndListTendersbyDate&amp;service=page" target="_self">Tenders by Closing Date</a>
+						</span>
+						<span class="divider1" id="Insert_2_1">|</span>
+					</span><span id="For_2">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Corrigendum" class="Menu" href="/nicgep/app?page=FrontEndLatestActiveCorrigendums&amp;service=page" target="_self">Corrigendum</a>
+						</span>
+						<span class="divider1" id="Insert_2_2">|</span>
+					</span><span id="For_3">
+						
+		             	 <span>
+							<a id="link1" name="link1" title="Results of Tenders" class="Menu" href="/nicgep/app?page=ResultOfTenders&amp;service=page" target="_self">Results of Tenders</a>
+						</span>
+						
+					</span>
+	          </span>
+	          
+          </td>
+          <td width="215" valign="middle" class="primaryBg">
+			<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td width="28%"><div align="center"><a id="homeLink" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','images/homeb.png',1)" page="Home" href="/nicgep/app?service=restart"><img src="images/homea.png" alt="Home" name="Image4" width="47" height="18" border="0"></a></div></td>
+                <td width="40%"><div align="center"><a id="PageLink_6" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','images/contactb.png',1)" href="/nicgep/app?page=FrontEndContactUs&amp;service=page"><img src="images/contacta.png" alt="Contact Us" name="Image5" width="78" height="18" border="0"></a></div></td>
+                <td width="32%"><div align="center"><a id="PageLink_7" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','images/sitemapb.png',1)" href="/nicgep/app?page=SiteMap&amp;service=page"><img src="images/sitemapa.png" alt="Sitemap" name="Image6" width="63" height="18" border="0"></a></div></td>                 
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+	<td>
+		<table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="notice" width="20" align="right"><img src="images/notice.png" width="15" height="16" alt="Notices" /> </td>
+		<td class="notice_strip">
+			<marquee align="left" id="gepNotice" onMouseover="this.stop();" onMouseout="this.start();" scrolldelay="200">
+				
+				<span>
+					eProcurement System for Pradhan Mantri Gram Sadak Yojana (PMGSY)
+				</span>
+			</marquee>
+		</td>
+	</tr>
+</table>
+	</td>
+  </tr>
+</table>
+<map name="Map">
+  <a id="PageLink_8" shape="circle" coords="43,43,37" href="/nicgep/app?page=Home&amp;service=page"></a>
+</map>
+
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+						<tr>
+
+							<td width="214" class="navigation"><script language="javascript">
+
+	// Script to view document in popup
+	function popup(mylink, windowname)
+	{
+		if (! window.focus)return true;
+		var href;
+		if (typeof(mylink) == 'string')
+	 		href=mylink;
+		else
+			href=mylink.href;
+			window.open(href, "Popup", 'location=no, scrollbars=yes, toolbar=no, width=700, height=550, directories=no, menubar=no, resizable=yes, status=no, titlebar=yes');
+			return false;   
+	}
+
+</script>
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" class="left_nav">	
+	
+	<tr> 
+         <td height="10"></td>
+     </tr>
+     	
+	<tr>
+		<td valign="top">
+			<table width="214" border="0" cellspacing="0" cellpadding="0">
+				<span id="If_2">
+					<tr id="For_5">
+						<span id="If_0_4">
+							<span id="If_3">
+			             		<tr> 
+					             	<td height="37" background="images/textbg.png" align="center"><a id="GenericLink" rel="noopener noreferrer" title="MIS Reports" class="link1" href="https://gepnicreports.gov.in/eprocreports/pmgsy/" target="_blank">MIS Reports</a></td>
+					             </tr>
+			             	 </span>
+			             	 
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_6">
+						<span id="If_0_5">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink" title="Participating Sites" class="link1" href="/nicgep/app?page=FrontEndParticipatingSites&amp;service=page" target="_self">Participating Sites</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_7">
+						<span id="If_0_6">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_0" title="Tenders By Classification" class="link1" href="/nicgep/app?page=FrontEndTendersByClassification&amp;service=page" target="_self">Tenders by Classification</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_8">
+						<span id="If_0_7">
+							<span id="If_6">
+			             		<tr> 
+					             	<td height="37" background="images/textbg.png" align="center"><a id="GenericLink_0" rel="noopener noreferrer" title="PMGSY Site" class="link1" href="http://pmgsy.nic.in/" target="_self">PMGSY Site</a></td>
+					             </tr>
+			             	 </span>
+			             	 
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_9">
+						<span id="If_0_8">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_1" title="Tenders Status" class="link1" href="/nicgep/app?page=WebTenderStatusLists&amp;service=page" target="_self">Tenders Status</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_10">
+						<span id="If_0_9">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_2" title="Downloads" class="link1" href="/nicgep/app?page=StandardBiddingDocuments&amp;service=page" target="_self">Downloads</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_11">
+						<span id="If_0_10">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_3" title="Announcements" class="link1" href="/nicgep/app?page=WebAnnouncements&amp;service=page" target="_self">Announcements</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_12">
+						<span id="If_0_11">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_4" title="Recognitions" class="link1" href="/nicgep/app?page=WebAwards&amp;service=page" target="_self">Recognitions</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_13">
+						<span id="If_0_12">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_5" title="D" class="link1" href="/nicgep/app?page=FrontEndDebarmentList&amp;service=page" target="_self">Debarment List</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_14">
+						<span id="If_0_13">
+							
+			             	 <span>
+				             	 <tr> 
+				                	<td height="37" background="images/textbg.png" align="center"><a id="PageLink_9" title="Site compatibility" class="link1" href="/nicgep/app?page=SiteComp&amp;service=page" target="_self">Site compatibility</a></td>
+				             	 </tr>
+			             	 </span>
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_15">
+						
+					</tr><tr id="For_16">
+						
+					</tr><tr id="For_17">
+						<span id="If_0_16">
+							<span id="If_13">
+			             		<tr> 
+					             	<td height="37" background="images/textbg.png" align="center"><a id="GenericLink_1" rel="noopener noreferrer" title="PMGSY Main Site" class="link1" href="http://pmgsytenders.gov.in" target="_self">PMGSY Main Site</a></td>
+					             </tr>
+			             	 </span>
+			             	 
+			             	 
+			             	 <tr> 
+				                <td height="10"></td>
+				             </tr>
+			             	 
+						</span>
+					</tr><tr id="For_18">
+						
+					</tr><tr id="For_19">
+						
+					</tr>
+					
+					<tr> 
+		                <td height="10"></td>
+		             </tr>
+				</span>
+				
+				<span id="If_14">
+					<tr> 
+	               		<td height="30" align="center">
+							<table width="160" height="114" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr id="For_21"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_2" rel="noopener noreferrer" title="link" href="https://gepnic.gov.in" target="_blank"><img border="0" width="160" src="images/Gepnic.png" height="34" id="Any_1"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr><tr id="For_22"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_3" rel="noopener noreferrer" title="DashBoard" href="https://eprocure.gov.in/eprocdashboard?siteCode=PMGSY" target="_blank"><img border="0" width="160" src="images/dashboard.png" height="34" id="Any_2"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr><tr id="For_23"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_4" rel="noopener noreferrer" title="National Portal of India - External Link that open in a new window" href="http://india.gov.in" target="_blank"><img border="0" width="160" src="images/indiagovin.png" height="34" id="Any_3"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr><tr id="For_24"> 
+				             		<tr>
+				             			<td height="15" valign="top"><a id="GenericLink_5" rel="noopener noreferrer" title="Central Public Procurement portal - External Link that opens in a new window" href="http://eprocure.gov.in/cppp/" target="_blank"><img border="0" width="160" src="images/cppp-img.png" height="34" id="Any_4"></img></a></td>
+				             		</tr>
+				             		 <tr> 
+						                <td height="10"></td>
+						             </tr>
+				             	 </tr>
+							</table>
+				 		</td>
+	             	</tr>					
+				</span>	
+				
+				<tr> 
+					<td height="30" align="center">&nbsp;</td>
+			  	</tr>							
+			  	
+			</table>
+		</td>
+	</tr>
+	
+</table></td>
+							<td class="page_content" valign="top">
+							<!-- Page content starts here -->
+								
+	<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<td class="page_content">
+			<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+								
+								<!-- Page links -->
+				<tr>
+					<td height="100%" valign="top">
+						<!-- Interface -->
+						<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+							<tr> 
+							  
+								<td valign="top" class="page_content">
+									<table cellpadding="0" cellspacing="0" width="92%">
+										<tbody>
+											<tr valign="middle">
+												<td class="text3" height="20">
+													<table width="100%" cellspacing="0" cellpadding="0" class="list">
+													  <tr>
+															<td>
+																<div class="black" align="right">
+																	<a id="PageLink_10" title="Back" class="customButton_link" value="Back" href="/nicgep/app?page=Home&amp;service=page">Back</a>
+																</div>
+															</td>
+													   </tr>
+														<tr>
+															<td valign="left">
+																<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+																	<tr> 
+																		<td width="16"><img src="images/fleft.png" width="16" height="22"></td>
+																		<td background="images/ftopbg.png">
+																			<table width="50%" border="0" cellpadding="0" cellspacing="1" bgcolor="DCDCDC">
+																			  <tr> 
+																				<td bgcolor="#FFFFFF" class="pageheader" width="50%" style="padding-top:2px;" ><b> Vendors DSC Address List </b></td>
+																			  </tr>
+																			</table>
+																		</td>
+																		<td width="10"><img src="images/frgt.png" width="16" height="22"></td>
+																	</tr>
+																	<tr> 
+																		<td width="16" background="images/fleftbg.png">&nbsp;</td>
+																		<td valign="top" bgcolor="F8F8F8" class="td_space">
+																		<!-- Information Grid -->
+																		<span id="If_15">																		
+																			
+
+<table border="0" width="100%" cellspacing="0" id="tabList" cellpadding="0">
+	
+            																	
+            																		
+
+
+	<tr pageSize="-1" class="even" id="informal">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_19"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Mumbai HO)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_17">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">B-25, 2nd floor, Singh Industrial Estate No. 1, Ram Mandir Road,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_18">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Ram Mandir (West), Mumbai - 400104.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_21">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/17_ph_91 22 46103700 (board line).png" id="Any_5"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_23">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/17_email_dsc[at]acetechnology[dot]co[dot]in.png" id="Any_6"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_24">
+																						<span id="If_25">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_0">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_20"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Delhi)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_27">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">C-18/238, Shop No. 9 A, 1st Floor,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_28">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Main Guru Nanak Pura Road, Laxmi Nagar, opp. DDA Bldg,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_29">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Near Nirman Vihar Metro Station, Delhi-110092.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_31">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/18_ph_011-43054138.png" id="Any_7"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_32">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/18_mob_9810229540.png" id="Any_8"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_33">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/18_email_delhi[at]acetechnology[dot]co[dot]in.png" id="Any_9"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_34">
+																						<span id="If_35">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_1">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_21"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Lucknow)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_37">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">2nd Floor, House No. -8, 27/2, Gokhalay Vihar Marg Lane,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_38">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Raja Ram Mohan Rai Marg ( Near CID Office ),</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_39">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Lucknow - 226001.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_41">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/19_ph_0522 - 4955549.png" id="Any_10"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_42">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/19_mob_8004944439.png" id="Any_11"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_43">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/19_email_lucknow[at]acetechnology[dot]co[dot]in.png" id="Any_12"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_44">
+																						<span id="If_45">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_2">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_22"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Ambika Books Gallery Private Limited.,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_47">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Shop No. 110, Sunrays Shopping Center,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_48">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Next to Apna Bazar, Charkop Market,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_49">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Kandivali (West), Mumbai - 400067,</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_51">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/22_ph_022-2867 3262.png" id="Any_13"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_52">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/22_mob_75060 50933 , 9819 472867.png" id="Any_14"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_53">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/22_email_ambikabooksgallery[at]gmail[dot]com.png" id="Any_15"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_54">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_3">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_23"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Kolkata)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_57">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">63, Russa Road, (East) 1st Lane,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_58">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Near Charu Bazar Police Station,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_59">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Swiss Park, Kolkota-700033</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_61">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/20_ph_033 - 24192093.png" id="Any_16"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_62">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/20_mob_8335868282.png" id="Any_17"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_63">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/20_email_kol[at]acetechnology[dot]co[dot]in.png" id="Any_18"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_64">
+																						<span id="If_65">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_4">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_24"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Nagpur - Maharashtra)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_67">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Rai Udyog 301 , 3rd floor Wing 1,Rajat Sankul,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_68">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">opp S.T Bus stand, Ganeshpeth Nagpur - 440018,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_69">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Maharashtra.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_72">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/21_mob_9579177766.png" id="Any_19"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_73">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/21_email_nagpur[at]acetechnology[dot]co[dot]in.png" id="Any_20"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_74">
+																						<span id="If_75">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_5">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_25"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Patna)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_77">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Vishwakarma House, Behind Hotel Lalita,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_78">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Boring Canal Road Patna - 800001.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_81">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/52_ph_0612-2533722.png" id="Any_21"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_82">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/52_mob_7781002933, 7781003722.png" id="Any_22"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_83">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/52_email_patna[at]acetechnology[dot]co[dot]in.png" id="Any_23"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_84">
+																						<span id="If_85">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_6">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_26"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s Analytix Corporate Solutions Pvt Ltd.,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_87">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Veekshnam Road, Kochi, Kerala - 682018</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_88">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Contact Person- Shiju S Pillai</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_91">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/23_ph_Tel +91 484 4017178 , Fax +91 484 4017168.png" id="Any_24"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_92">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/23_mob_+91 97463 77776.png" id="Any_25"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_93">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/23_email_shiju[at]analytix[dot]org.png" id="Any_26"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_94">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_7">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_27"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Bhopal)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_97">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Shop No.-16, 1st floor,  Jyoti Complex,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_98">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Beside Karvi Finance Zone 1, M.P Nagar,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_99">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Bhopal, Madhya Pradesh - 462011</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_102">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/66_mob_7518020860.png" id="Any_27"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_103">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/66_email_bhopal[at]acetechnology[dot]co[dot]in.png" id="Any_28"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_104">
+																						<span id="If_105">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_8">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_28"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Guwahati)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_107">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">H.No. 1,SugamPath,10th Byelane,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_108">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Opp Ambika Petrol Pump,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_109">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Zoo Road Tinali,Guwahati-781024,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_110">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Assam.</td>
+																						</tr>	
+																					</span>	
+																					
+																					
+																					
+																					<span id="If_112">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/53_mob_9127017619.png" id="Any_29"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_113">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/53_email_guwahati[at]acetechnology[dot]co[dot]in.png" id="Any_30"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_114">
+																						<span id="If_115">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_9">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_29"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ACE Technology (Pune)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_117">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Pratibha Clasik Bldg, Shop No.9,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_118">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Ground Floor, 26 Somwar Peth,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_119">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Near Jain Mandir, Pune-400 011.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_121">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/65_ph_020-26125706.png" id="Any_31"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_122">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/65_mob_9145595701.png" id="Any_32"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_123">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/65_email_pune[at]acetechnology[dot]co[dot]in.png" id="Any_33"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_124">
+																						<span id="If_125">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.acetechnology.co.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_10">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_30"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s Charted Information Systems Pvt. Ltd., (Central Office)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_127">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Chartered House, Near Lata Mangeshkar Musical Park,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_128">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Bhandara Road, NAGPUR - 440 008</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_131">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/24_ph_0712 - 663 8888 (100 Lines), +919225 245088.png" id="Any_34"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_133">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/24_email_digitalsignature[at]charteredinfo[dot]com.png" id="Any_35"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_134">
+																						<span id="If_135">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.charteredinfo.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_11">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_31"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>HIMALAYA DIGITAL INDIA PRIVATE LIMITED</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_136">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">FLAT NO 5</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_137">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">C-42</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_138">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">CONNAUGHT PLACE</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_139">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">NEW DELHI -110001</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_141">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/67_ph_91-11-23418531,91-11-23417366.png" id="Any_36"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_142">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/67_mob_91-9899869692.png" id="Any_37"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_143">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/67_email_shirish[at]digital-himalaya[dot]com.png" id="Any_38"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_144">
+																						<span id="If_145">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.digital-himalaya.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_12">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_32"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s Charted Information Systems Pvt. Ltd., (North Region)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_147">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">#222-223, Durga Chambers, 1334/35, Desh Bandhu Gupta Road,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_148">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Karolbagh, NEW DELHI- 110 005</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_151">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/25_ph_011- 45037177, 45020850, 98712 65511.png" id="Any_39"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_153">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/25_email_dsc[dot]delhi[at]charteredinfo[dot]com.png" id="Any_40"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_154">
+																						<span id="If_155">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.charteredinfo.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_13">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_33"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>Infosign Network Pvt.Ltd.</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_157">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">H. No.69 A, Village Devrala,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_158">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Khurja Bulandshahr (UP) 203129.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_161">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/72_ph_9761778358.png" id="Any_41"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_162">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/72_mob_91-9761778358.png" id="Any_42"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_163">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/72_email_infosignnetwork[at]gmail[dot]com.png" id="Any_43"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_164">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_14">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_34"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>KUNDIGISIGN</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					
+																					
+																					<span id="If_168">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">#2488 , KATRA RAJJI SHARDHANAND MARG AJMERI GATE</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_169">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">NEW DELHI - 11000</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_171">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/71_ph_011 - 48026105.png" id="Any_44"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_172">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/71_mob_91-9625173680.png" id="Any_45"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_173">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/71_email_info[at]kundigisign[dot]com , kundigisign[at]gmail[dot]com.png" id="Any_46"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_174">
+																						<span id="If_175">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://www.kundigisign.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_15">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_35"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s Charted Information Systems Pvt. Ltd., (West Region)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_177">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">#103, Millennium Plaza, Beside Sakinaka Telephone Exchange,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_178">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Andheri - Kurla Road, Andheri (E), MUMBAI - 440 072</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_181">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/26_ph_022 - 65228288, 9766491466.png" id="Any_47"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_183">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/26_email_dsc[dot]mumbai[at]charteredinfo[dot]com.png" id="Any_48"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_184">
+																						<span id="If_185">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.charteredinfo.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_16">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_36"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s Charted Information Systems Pvt. Ltd., (South Region)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_187">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">#207-B, Wing A, Brigade Majestic,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_188">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">1st Main (Kalidas) Road, Above AirTel Gallery,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_189">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Gandhi Nagar, BENGALURU -560 009</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_191">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/27_ph_080 - 40921639, 9972932213, 99029 48947.png" id="Any_49"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_193">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/27_email_dsc[dot]bangalore[at]charteredinfo[dot]com.png" id="Any_50"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_194">
+																						<span id="If_195">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.charteredinfo.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_17">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_37"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s Charted Information Systems Pvt. Ltd., (East Region)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_197">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">#D-7, 3rd Floor, Premises No. 219/C,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_198">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Old China Bazar Street, KOLKATA - 700 001</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_201">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/28_ph_033 - 40078356.png" id="Any_51"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_203">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/28_email_taxpro[dot]kolkata[at]taxpro[dot]co[dot]in.png" id="Any_52"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_204">
+																						<span id="If_205">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.charteredinfo.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_18">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_38"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. CRG CORPORATE SERVICES PRIVATE LIMITED.,</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_206">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">Belgharia Branch-52/A, Vivekanandanagar, Belghoria, Kolkata-56</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_207">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Kolkata Branch-57/H/1, Mort Lane, 1st Floor, Behind Jyoti Cenema Hall, Kolkata-13</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_208">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Jalpaiguri Branch- OmShibam Complex,Ground Floor,Opp Zella Parishad Office,Jalpaiguri</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_209">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Nadia Branch-IndiraGandhi Market Complex,1st Floor,RoomNo.26,27 and 31.KrishNagar,Nadia,Pin-741101</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_212">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/31_mob_9339529341, 9330001116.png" id="Any_53"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_213">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/31_email_crgcorporate[at]gmail[dot]com.png" id="Any_54"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_214">
+																						<span id="If_215">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.crgcorporate.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_19">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_39"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. D J Corporate Services Private Limited., (Head Office)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_217">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">New No.19, 2nd Floor, Mayor Siva Shanmugam Street,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_218">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Nungambakkam, Chennai - 600034, India.</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_219">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Land Mark- Near to Raj Bhavan Hotel.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_221">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/29_ph_7200 441 441.png" id="Any_55"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_222">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/29_mob_7200 331 331, 9841 260 068.png" id="Any_56"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_224">
+																						<span id="If_225">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.djcorporateservices.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_20">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_40"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. D J Corporate Services Private Limited., (Branch Office)</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_227">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">No.6/112, Nagammaiyar Street, Periyar Nagar,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_228">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Viyasarpadi, Perambur, Chennai-600039.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					<span id="If_234">
+																						<span id="If_235">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.djcorporateservices.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_21">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_41"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Exim Links International,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_237">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Old no 14, New no 36, 2nd floor, Errabalu Chetty Street, Parrys,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_238">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Chennai-600001.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_241">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/35_ph_044-42159972.png" id="Any_57"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_242">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/35_mob_9444087687.png" id="Any_58"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_244">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_22">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_42"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. e-Solutions.,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_247">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">10B, Big Jos Tower, Netaji Subhash Place, Delhi-110034.</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_248">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">(Landmark- Near D-Mall and Max Hospital, Nearest Metro Station - Netaji Subhash Place)</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_251">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/43_ph_Ph No- 91-11-47003122, 45074590..png" id="Any_59"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																					<span id="If_254">
+																						<span id="If_255">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.esoldsc.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_23">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_43"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>Sri Mookambika Consulting</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_256">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">37 B/C, Konditholu North Lane, East Sandaipettai,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_257">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Munichalai, Madurai - 625009, Tamil Nadu.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_262">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/74_mob_91-9176443855.png" id="Any_60"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_263">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/74_email_info[at]pan-dsc[dot]com.png" id="Any_61"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_264">
+																						<span id="If_265">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://www.pan-dsc.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_24">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_44"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. HR Infracon Ltd.,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_267">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">#135, Foreshore Road, Howrah-711 102,</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_271">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/44_ph_033-2640 4086,4446.png" id="Any_62"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_272">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/44_mob_98318 99991.png" id="Any_63"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_274">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_25">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_45"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Interface Corporate Consultants Pvt. Ltd,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_277">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">CC-6, 3rd Floor, Rams Square, 2, Village Road,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_278">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Opp. Hotel Harrisons, Nungambakkam,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_279">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Chennai - 600 034.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					<span id="If_284">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_26">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_46"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Kartsiv International</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_287">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">6/358-a, Thiruvalluvar Nagar, Bodhupatti Road,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_288">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Namakkal - 637001</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_291">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/46_ph_04286 326232, Fax- 04286 225126.png" id="Any_64"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_292">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/46_mob_99442 87728.png" id="Any_65"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_293">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/46_email_kartsiv[at]gmail[dot]com.png" id="Any_66"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_294">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_27">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_47"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Kartsiv International,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_297">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">79A, DB Road, R.S Puram, Coimbatore -641002</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_301">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/32_ph_0422-3240625.png" id="Any_67"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_302">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/32_mob_9944287728.png" id="Any_68"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_303">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/32_email_kartsiv[at]gmail[dot]com.png" id="Any_69"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_304">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_28">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_48"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. (n)Code Solutions, A division of GNFC Ltd,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_307">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">GNFC House, E-223, East of Kailash, New Delhi-110065,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_308">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Contact Person- Mr.Sachin Sethi, Ph. 011-26452279 / 80 Mobile- 09312371943.</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_309">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Contact Person- Anju Sharma , Mobile- 098654628018.</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					<span id="If_314">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_29">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_49"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Pagaria Advisory Private Limited,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_317">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">F-15, 1st Floor, Haware Centurion, Plot - 88-91,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_318">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Sector-19A, Nerul-East, Navi Mumbai,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_319">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Maharashtra - India - 400706</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_320">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Contact Person - Ankush Pagaria</td>
+																						</tr>	
+																					</span>	
+																					
+																					<span id="If_321">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/51_ph_022-6794642, +91 9702267539, +91 8655186552 (IVR).png" id="Any_70"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_323">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/51_email_sales[at]pagariagroup[dot]com.png" id="Any_71"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_324">
+																						<span id="If_325">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.signatureplanet.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_30">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_50"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Poddar Professional Solutions Private Limited,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_327">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">13, B. B. Ganguly Street, Kolkata - 700012</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_328">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Punar Nava Building, Ground Floor, Room No. 7,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_329">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">(Near Lal Bazar - Dalhousie, Opp- Himalaya Optics)</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					<span id="If_331">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/36_ph_033-4008 5487, 033-4003 1162..png" id="Any_72"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_332">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/36_mob_9903022336, 9836900135.png" id="Any_73"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_333">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/36_email_poddar[dot]professional[at]gmail[dot]com.png" id="Any_74"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_334">
+																						<span id="If_335">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.digitalsignatureindia.in</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_31">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_51"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. R3 eConsulting Pvt Ltd,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_337">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Indira devi Complex, 2nd floor, 20, Gopalakrishna Street,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_338">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Pondy bazaar, T.Nagar, Chennai-600017.</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_339">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">(Near Rohini International Hotel) Ph- 044-4207 0906, 2815 2670 / 72</td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_342">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/40_mob_94448 41015, 98842 12845.png" id="Any_75"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_344">
+																						<span id="If_345">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">chennai@sgs-ds.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_32">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_52"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. R.Gandhi and Co</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_347">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">6/159,Kalidas Road, Ramnagar, Coimbatore-641009</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_351">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/50_ph_0422-2233712 , 2236076.png" id="Any_76"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_352">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/50_mob_9965550712.png" id="Any_77"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_353">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/50_email_rgandhico[at]gmail[dot]com.png" id="Any_78"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_354">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_33">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_53"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Sara Enterprises</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_357">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Office- No.19, 7th Street, Jothy Nagar (TVT) Chennai-600 019</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_358">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Residence- No.8, 5th Cross Street, Jothy Nagar (TVT) Chennai- 600 019</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_362">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/49_mob_9940399031.png" id="Any_79"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_364">
+																						<span id="If_365">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://www.ncodesolutions.com/etoken.asp </td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_34">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_54"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. SCS Corporate Solutions,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_367">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">No.101, P.M.G Complex, No. 57 South Usman Road, T.Nagar,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_368">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Chennai - 600017 (Near T.Nagar Bus Terminus).</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_371">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/41_ph_044-42831124, 32972241,.png" id="Any_80"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_372">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/41_mob_9884222241 , 9884292979 , 9962002961, 62, 62, 63.png" id="Any_81"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_374">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_35">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_55"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Sify Communications Ltd,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_377">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">2nd Floor, Tidel Park, Chennai-113.</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_378">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Contact Person- A Anand, Accounts Manager</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_381">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/48_ph_91 44 22540770 ext 2594.png" id="Any_82"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_382">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/48_mob_99400 13548.png" id="Any_83"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_384">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_36">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_56"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. SOLINWEB,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_387">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">New Market, 1st Floor, Opposite Maa Tara Misthana Bhandar,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_388">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">35, New HB Road, Tharpakhna, Ranchi, Jharkhand- 834001</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_389">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Contact Person- Siddharth Kumar (91-97090-38799 ) </td>
+																						</tr>	
+																					</span>
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_392">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/37_mob_91-97090-38799 , 91-82522-36069.png" id="Any_84"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_393">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/37_email_dsc[at]solinweb[dot]com.png" id="Any_85"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_394">
+																						<span id="If_395">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://www.solinweb.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_37">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_57"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Safe Solutions,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_397">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">M C Complex, 70/6, Lawley road, Near Agricultural University,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_398">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Coimbatore-3,</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_401">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/33_ph_0422-2442081.png" id="Any_86"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_402">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/33_mob_9994867519.png" id="Any_87"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_404">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_38">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_58"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s 3i Infotech Consumer Services Ltd.,</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_407">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">3rd Floor, Sai Arcade, Outer Ring Road, Devarabeesanahalli,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_408">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Bangalore -560036. Karnataka, India</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_411">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/34_ph_91 80 67821616 Fax +91 80 67175306.png" id="Any_88"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					<span id="If_413">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/34_email_info[at]e-mudhra[dot]com.png" id="Any_89"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_414">
+																						
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_39">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_59"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>M/s. Penta Four Security Services Pvt. Ltd,</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_416">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">GF-16, Ansal Sumedha Building,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_417">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">RDC, Raj Nagar,</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_418">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Ghaziabad-201001.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_421">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/54_ph_0120-4785558.png" id="Any_90"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_422">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/54_mob_9711309971, 9350737575, 9310349649.png" id="Any_91"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_423">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/54_email_pentafourorg[at]gmail[dot]com, pfsspl[at]gmail[dot]com.png" id="Any_92"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_424">
+																						<span id="If_425">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">http://pentafour.org, http://pentafoursecurity.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_40">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_60"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>eFiling Infotech Pvt Ltd</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_426">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">4 Fairlie Place. HMP House, 1st Floor, </td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_427">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Room No 110, Kolkata - 700001, WB.</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_431">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/64_ph_033 40605491, 033 40084196, 91 9038355566 , 91 7044444142 , 91 9836676668 .png" id="Any_93"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_432">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/64_mob_91 9051855666 .png" id="Any_94"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_433">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/64_email_sales[at]efilinginfotech[dot]com , dsc[at]efilinginfotech[dot]com .png" id="Any_95"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_434">
+																						<span id="If_435">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://www.efilinginfotech.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_41">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_61"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>Websign Solutions</b></font></td>																							
+																						</tr>																				
+																																									
+																					
+																					
+																					<span id="If_437">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">B-114, RMS Plaza, Tronica City</td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_438">
+																						<tr>
+																							<td style="padding-top:4px;" align="right"/>
+																							<td style="padding-left:3px;padding-top:2px;">Ghaziabad (UP) - 201102</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_441">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/68_ph_7011991499.png" id="Any_96"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_442">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/68_mob_91-8800215916.png" id="Any_97"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_443">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/68_email_dscproc11[at]gmail[dot]com.png" id="Any_98"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_444">
+																						<span id="If_445">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://websigndsc.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="odd" id="informal_42">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_62"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>Saishankar Infocom LLP</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_446">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">7/754, 1st Main Road, Perumbakkam, Chennai - 600100</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					
+																					
+																					<span id="If_452">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/69_mob_91-948 941 2222.png" id="Any_99"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_453">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/69_email_info[at]dscsignature[dot]com.png" id="Any_100"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_454">
+																						<span id="If_455">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://dscsignature.com</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+	<tr pageSize="-1" class="even" id="informal_43">
+		     																		          																		
+																																																						          																	            																	            																	
+	            																		<tr>																							
+																							<td width="5%" style="padding-top:4px;" align="right"><span id="If_0_63"><!-- <span jwcid="@Insert" value="ognl:currentRow.id" /> --></span></td>																							 
+																							<td style="padding-left:3px;padding-top:2px;"><font size="2"><b>ESIGN INFOTECH</b></font></td>																							
+																						</tr>																				
+																																									
+																					<span id="If_456">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Address :</b></td> <td style="padding-left:4px;">16, Mangoe Lane, 3rd floor No.5, Kolkata 700001</td>
+																						</tr>	
+																					</span>
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																						
+																					
+																					<span id="If_461">
+																						<tr>
+																							
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Tel :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/70_ph_033 4000 7552.png" id="Any_101"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_462">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>Mobile :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/70_mob_91-9903198666.png" id="Any_102"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_463">
+																						<tr>
+																							<td width="10%" style="padding-top:2px;" align="right"><b>E-Mail :</b></td> <td style="padding-left:4px;">
+																							<img src="/nicgep/file/70_email_esigninfotechkol[at]gmail[dot]com.png" id="Any_103"></img></td>
+																						</tr>	
+																					</span>
+																					
+																					<span id="If_464">
+																						<span id="If_465">
+																							<tr>
+																								<td width="10%" style="padding-top:2px;" align="right"><b>WebSite :</b></td> <td style="padding-left:4px;">https://esigninfotech.com/</td>
+																							</tr>	
+																						</span>
+																					</span>
+																																																												
+																					<td>&nbsp;</td>																																										
+																				
+	</tr>
+
+
+
+																			
+</table>
+
+
+																		</span>
+																			
+																		</td>	
+																		 <!-- Information Grid -->
+																		
+																		  <td width="16" background="images/frgtbg.png">&nbsp;</td>
+																		</tr>
+																	<tr> 
+																		<td width="8"><img src="images/fleftbot.png" width="16" height="10"></td>
+																		<td background="images/fbotbg.png"><img src="images/spacer.png" width="1" height="1"></td>
+																		<td width="16"><img src="images/frgtbot.png" width="16" height="10"></td>
+																	</tr>
+
+
+																</TABLE>
+															</td>
+														</tr>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr valign="middle">
+												<td class="text3">
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							 </tr>
+						</table>
+					</td>
+				</tr>	
+			</table>
+		</td>
+	</table>
+	
+
+							<!-- Page content ends here -->	
+							</td>				
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" height="40">
+					<table width="100%" cellspacing="0" cellpadding="0">
+	 <tr style="background-color:#E8E8E8;"> 
+	 <td height="25" class="text2" align="center"><b>Visitor No:1939199</b></td>
+		
+	  </tr>
+	 <tr style="background-color:#E8E8E8;"> 
+	
+		<td height="25" class="text2" align="center">Contents owned and maintained by respective SRRDA Units in coordination with National Rural Roads Development Agency, Ministry of Rural Development.		  
+		 </td>
+	  </tr>
+	  <tr valign="top" class="secondaryBg"> 
+		<td>
+			<table width="100%" height="22" border="0" cellpadding="1" cellspacing="1">
+
+				
+				<tr class="footer">
+					<td width="40%" valign="top" align="left">Designed, Developed and Hosted by<br/>  <a href="http://www.nic.in" target="_blank" rel="noopener noreferrer" class="footerlink">National Informatics Centre</a></td>
+					<td width="40%" align="left">
+						 Version : 1.09.21 25-Sep-2024<br />
+						(c) 2017 Tenders NIC, All rights reserved.<br/>Site best viewed in IE 10 and above, with a screen resolution 1024 x 768.</td>					
+					<td width="20%" valign="top" align="right"><a id="PageLink_11" class="footerlink" href="/nicgep/app?page=Disclaimer&amp;service=page">Portal policies</a></td>
+				</tr>
+			</table>
+		</td>
+	  </tr>
+</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+service: insolare-llm-doc-processing
+
+provider:
+  name: aws
+  runtime: python3.9
+  region: us-east-1
+
+functions:
+  api:
+    handler: api.src.main.handler
+    events:
+      - http:
+          path: /
+          method: any

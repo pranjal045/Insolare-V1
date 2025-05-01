@@ -1,0 +1,242 @@
+{
+    "gujrat_error": {
+        "source": "Gujrat",
+        "title": "Gujrat Scraping Error",
+        "url": "https://tender.nprocure.com",
+        "timestamp": "2025-04-26 14:29:59.180215",
+        "downloaded": false,
+        "error": "HTTPSConnectionPool(host='tender.nprocure.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))"
+    },
+    "5800cbc646f718d5ceb5640b5b4bf360": {
+        "source": "Central (PMGSY)",
+        "title": "Central (PMGSY) Document",
+        "url": "https://pmgsytenders.gov.in/nicgep/app?component=%24DirectLink_3&page=Home&service=direct&session=T&sp=SSecurity_Audit_Report.pdf",
+        "timestamp": "2025-04-26 14:30:50.540706",
+        "downloaded": true,
+        "paid": false
+    },
+    "782273afe092106410aaa94d44b12ff2": {
+        "source": "Central (PMGSY)",
+        "title": "Guidelines for Hassle Free Bid Submission",
+        "url": "https://eprocure.gov.in/cppp/hassle_free_bid_submission.pdf",
+        "timestamp": "2025-04-26 14:32:58.796049",
+        "downloaded": true,
+        "paid": false
+    },
+    "f3fb0eac1658d39a29c975715b7f347d": {
+        "source": "Defence Procurement",
+        "title": "Defence Procurement Document",
+        "url": "https://defproc.gov.in/nicgep/app?component=%24DirectLink_3&page=Home&service=direct&session=T&sp=SSecurity_Audit_Report.pdf",
+        "timestamp": "2025-04-26 14:35:48.899618",
+        "downloaded": true,
+        "paid": false
+    },
+    "2a587879651d430c53cc609c3cbb78d2": {
+        "source": "Solar energy corporation of India",
+        "title": "Vigilance Awareness Week 2024",
+        "url": "https://www.seci.co.in/upload/static/files/CVC%20CIRCULAR%20DATED%2001082024.pdf",
+        "timestamp": "2025-04-26 14:36:32.262773",
+        "downloaded": true,
+        "paid": false
+    },
+    "c644e0e9d4ddc51661bd92cab8d04e38": {
+        "source": "Solar energy corporation of India",
+        "title": "Unique Business Model of SECI Ltd",
+        "url": "https://www.seci.co.in/upload/static/files/Unique%20Business%20Model%20of%20SECI%20Ltd.pdf",
+        "timestamp": "2025-04-26 14:36:34.645189",
+        "downloaded": true,
+        "paid": false
+    },
+    "38741fa334aff6f01aed325d199cd126": {
+        "source": "Solar energy corporation of India",
+        "title": "'Click Here To See Files'",
+        "url": "https://www.seci.co.in/Upload/New/638808588733517358.pdf",
+        "timestamp": "2025-04-26 14:37:32.215141",
+        "downloaded": true,
+        "paid": false
+    },
+    "ap_tenders_prelogin_20250426_201222": {
+        "source": "Andhra Pradesh",
+        "title": "Andhra Pradesh eProcurement Tenders Pre-login View",
+        "url": "https://tender.apeprocurement.gov.in/ViewTenderPreLogin.html#",
+        "timestamp": "2025-04-26 14:42:22.519338",
+        "downloaded": true,
+        "paid": false
+    },
+    "bihar_error": {
+        "source": "Bihar",
+        "title": "Bihar Scraping Error",
+        "url": "https://eproc2.bihar.gov.in/EPSV2Web",
+        "timestamp": "2025-04-26 14:42:25.621602",
+        "downloaded": false,
+        "error": "404 Client Error: Not Found for url: https://eproc2.bihar.gov.in/EPSV2Web"
+    },
+    "e687f01772c167bc504d063696238f0e": {
+        "source": "Coal India",
+        "title": "Coal India Document",
+        "url": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink_3&page=Home&service=direct&session=T&sp=SSecurity_Audit_Report.pdf",
+        "timestamp": "2025-04-30 04:05:35.617017",
+        "downloaded": true,
+        "paid": false
+    },
+    "hindustan_shipyard_limited_error": {
+        "source": "Hindustan Shipyard Limited",
+        "title": "Hindustan Shipyard Limited Scraping Error",
+        "url": "https://eprocurehsl.nic.in",
+        "timestamp": "2025-04-30 04:07:02.286119",
+        "downloaded": false,
+        "error": "HTTPSConnectionPool(host='eprocurehsl.nic.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1002)')))"
+    },
+    "gsl_error": {
+        "source": "GSL",
+        "title": "GSL Scraping Error",
+        "url": "https://eprocuregsl.nic.in",
+        "timestamp": "2025-04-30 04:08:29.739335",
+        "downloaded": false,
+        "error": "HTTPSConnectionPool(host='eprocuregsl.nic.in', port=443): Max retries exceeded with url: / (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='eprocuregsl.nic.in', port=443): Read timed out. (read timeout=10)\"))"
+    },
+    "mdl_error": {
+        "source": "MDL",
+        "title": "MDL Scraping Error",
+        "url": "https://eprocuremdl.nic.in",
+        "timestamp": "2025-04-30 04:09:20.716906",
+        "downloaded": false,
+        "error": "HTTPSConnectionPool(host='eprocuremdl.nic.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1002)')))"
+    },
+    "midhani_error": {
+        "source": "Midhani",
+        "title": "Midhani Scraping Error",
+        "url": "https://eprocuremidhani.nic.in",
+        "timestamp": "2025-04-30 04:09:54.832651",
+        "downloaded": false,
+        "error": "HTTPSConnectionPool(host='eprocuremidhani.nic.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1002)')))"
+    },
+    "grse_error": {
+        "source": "GRSE",
+        "title": "GRSE Scraping Error",
+        "url": "https://eprocuregrse.co.in",
+        "timestamp": "2025-04-30 04:10:18.778986",
+        "downloaded": false,
+        "error": "HTTPSConnectionPool(host='eprocuregrse.co.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1002)')))"
+    },
+    "ap_tenders_prelogin_20250430_094127": {
+        "source": "Placeholder 9",
+        "title": "Andhra Pradesh eProcurement Tenders Pre-login View",
+        "url": "https://tender.apeprocurement.gov.in/ViewTenderPreLogin.html#",
+        "timestamp": "2025-04-30 04:11:27.107616",
+        "downloaded": true,
+        "paid": false
+    },
+    "placeholder_11_error": {
+        "source": "Placeholder 11",
+        "title": "Placeholder 11 Scraping Error",
+        "url": "https://eprocure.gov.in/cppp/latestactivet/endersnew/cpppdata",
+        "timestamp": "2025-04-30 04:11:42.966462",
+        "downloaded": false,
+        "error": "404 Client Error: Not Found for url: https://eprocure.gov.in/cppp/latestactivet/endersnew/cpppdata"
+    },
+    "98b79f1361c05fbb9a6109b27c9cb518": {
+        "source": "Gujrat",
+        "title": "World Bank Guidelines",
+        "url": "https://tender.nprocure.com/resources/files/Procurement-May-2004.pdf",
+        "timestamp": "2025-04-30 04:34:12.246418",
+        "downloaded": true,
+        "paid": false
+    },
+    "e56e522929c97aa2a3447b084172fab7": {
+        "source": "Gujrat",
+        "title": "Gujarat Government Resolution",
+        "url": "https://tender.nprocure.com/resources/files/GoG_e_Procurement_GRs.pdf",
+        "timestamp": "2025-04-30 04:36:09.474287",
+        "downloaded": true,
+        "paid": false
+    },
+    "a3ce45316612befa6dc8405acce9bd33": {
+        "source": "Gujrat",
+        "title": "STQC Standards for e-Procurement",
+        "url": "https://tender.nprocure.com/resources/files/e-Procurement_Guidelines_DIT and STQC_October 2011.pdf",
+        "timestamp": "2025-04-30 04:36:50.946621",
+        "downloaded": true,
+        "paid": false
+    },
+    "aafc9056ec1afa694ca2bcdf735c8126": {
+        "source": "Gujrat",
+        "title": "System Malfunction Procedure",
+        "url": "https://tender.nprocure.com/resources/files/nprocure-system-malfunction-procedure.pdf",
+        "timestamp": "2025-04-30 04:40:49.964564",
+        "downloaded": true,
+        "paid": false
+    },
+    "37a708bb2726ae675d04fe7e77d8ca0f": {
+        "source": "Gujrat",
+        "title": "Govt. Of Gujarat Public Holidays",
+        "url": "https://tender.nprocure.com/resources/files/general_holidays_2025.pdf",
+        "timestamp": "2025-04-30 04:41:12.578994",
+        "downloaded": true,
+        "paid": false
+    },
+    "d9ddae666fbe82dec1bb3b68876eb8dc": {
+        "source": "Gujrat",
+        "title": "Tender 2025 MSU Health Centre.pdf",
+        "url": "https://tender.nprocure.com/common/download?uid=2d9b4671-111b-4129-8368-1dd7540237e0&name=Tender 2025 MSU Health Centre.pdf",
+        "timestamp": "2025-04-30 04:41:16.726570",
+        "downloaded": true,
+        "paid": false
+    },
+    "bec8b42a1bc64aa77f04ffc6d4fd2c67": {
+        "source": "Gujrat",
+        "title": "Master BOQ.pdf",
+        "url": "https://tender.nprocure.com/common/download?uid=6efb22b0-2734-45ef-8686-07bfefed80e3&name=Master BOQ.pdf",
+        "timestamp": "2025-04-30 04:41:53.231127",
+        "downloaded": true,
+        "paid": false
+    },
+    "1cd13f8d87f25d0313047e9da2e63279": {
+        "source": "Gujrat",
+        "title": "Gujarat State Procurement Policy 2024.pdf",
+        "url": "https://tender.nprocure.com/common/download?uid=3edd12a8-6d4a-4078-900f-b74e641bb37e&name=Gujarat State Procurement Policy 2024.pdf",
+        "timestamp": "2025-04-30 04:42:16.375680",
+        "downloaded": true,
+        "paid": false
+    },
+    "bade38129f36bc2e2a149cbdd6d0d407": {
+        "source": "Gujrat",
+        "title": "Java Runtime Environment Installation Guide",
+        "url": "https://tender.nprocure.com/resources/files/PKI_Installation_Guide.pdf",
+        "timestamp": "2025-04-30 04:42:23.421442",
+        "downloaded": true,
+        "paid": false
+    },
+    "2e74f51c9b5a35f07041050ac1432a70": {
+        "source": "Gujrat",
+        "title": "e-Tendering Minimum Requirement",
+        "url": "https://tender.nprocure.com/resources/files/Minimum Requirements for Online Tendering.pdf",
+        "timestamp": "2025-04-30 04:42:28.166499",
+        "downloaded": true,
+        "paid": false
+    },
+    "8850f39d81a7dbb8548ca26e07d6b968": {
+        "source": "Central (PMGSY)",
+        "title": "click here",
+        "url": "https://pmgsytenders.gov.in/nicgep/app?component=%24DirectLink_0&page=DSCInfo&service=direct&session=T&sp=SDSCAddress.pdf",
+        "timestamp": "2025-04-30 04:44:36.439064",
+        "downloaded": true,
+        "paid": false
+    },
+    "3723b743984a847a337c90f2bcbf6610": {
+        "source": "Placeholder 4",
+        "title": "click here",
+        "url": "https://defproc.gov.in/nicgep/app?component=%24DirectLink_0&page=DSCInfo&service=direct&session=T&sp=SDSCAddress.pdf",
+        "timestamp": "2025-04-30 04:49:36.677634",
+        "downloaded": true,
+        "paid": false
+    },
+    "82659fa7a233aec25a969473bd432ca1": {
+        "source": "Placeholder 7",
+        "title": "'Click Here To See Files'",
+        "url": "https://www.seci.co.in/Upload/New/638811176992434291.pdf",
+        "timestamp": "2025-04-30 04:50:19.130250",
+        "downloaded": true,
+        "paid": false
+    }
+}

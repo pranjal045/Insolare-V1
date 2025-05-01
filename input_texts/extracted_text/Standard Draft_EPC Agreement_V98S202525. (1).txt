@@ -1,0 +1,1002 @@
+
+
+
+
+
+tABLE OF Contents
+CLAUSE	PAGE
+1.	General Provisions	4
+2.	Owner	17
+3.	Owner's Administration	18
+4.	Contractor	20
+5.	Design	29
+6.	Staff and Labour	30
+7.	Commencement, Delays and Suspension	31
+8.	Tests on Completion	35
+9.	Owner's Taking Over	36
+10.	Defects Liability 	37
+11.	Variations and Adjustments	41
+12.	Contract Price and Payment	42
+13.	Representations and Warranties	46
+14.	Termination by THE Owner	47
+15.	Termination by Contractor	49
+16.	Risk and Responsibility	50
+17.	Insurance	53
+18.	Force Majeure	54
+19.	CHANGE IN LAWS	57
+20.	Claims, Disputes and Arbitration	58
+21.	Compliance	60
+22.	Financing of Project	60
+23.	Miscellaneous	60
+
+Signatories	62
+
+
+
+
+
+
+
+
+
+
+
+ENGINEERING, PROCUREMENT AND CONSTRUCTION CONTRACT
+This Engineering, Procurement & Construction Contract ("Contract") is made on the [■] day of [■] 2025at [■] ("Contract Date"). 
+BY AND BETWEEN:
+
+[Insert SPV Name]., a company incorporated under the Companies Act, 2013 under the laws of India, having its registered office at [Insert Address] (from now on referred to as "Owner", which expression shall, unless contrary to the context, be deemed to mean and include its successors and permitted assigns);
+AND
+
+[Insert name of Contractor] a company registered under the Companies Act, 2013 having its registered office at [Insert Address] (from now on referred to as the "Contractor" which expression shall, unless contrary to the context, be deemed to mean and include its successors and permitted assigns).
+The Owner and the Contractor are from now on each individually referred to as a "Party", and collectively referred to as the "Parties".
+WHEREAS:
+The Owner is engaged in the business of developing solar power plants in India. The Owner proposes to develop a [■] MW(AC)/ [■] MW(DC) solar power generating system located in [■] (the "Project"). 
+The Contractor has represented to the Owner that the Contractor has the requisite experience, expertise, resources and skills for undertaking and performing all the activities required for the Works (as defined below in Clause 1.1) for the Project i.e., the design, engineering, procuring, packing, loading, shipping, unloading, storing, installation, construction, erection, inspection, interconnection, testing, completion, commissioning, documentation and delivery of solar power PV Plant (as defined below in Clause 1.1). 
+The Owner, therefore, based on the representations of the Contractor intends to enter into this Contract to appoint the Contractor to carry out the Works (defined below in Clause 1.1) for the Project.
+The Parties promise to carry out and complete their respective obligations in accordance with this Contract.
+NOW, THEREFORE, the Parties hereby agree as follows:
+General Provisions
+Definitions
+In this Contract, unless contrary to the context, the following capitalised words and expressions shall have the meanings stated below:
+"Acceptance Certificate" means the certificate issued under Clause 10.9 (Acceptance Certificate);
+"Affiliate" means, with respect to any person, any other person that (i) owns or controls, directly or indirectly, the first person, (ii) is owned or controlled, directly or indirectly, by the first person, or (iii) is under common ownership or control with the first person, where "own" means ownership of 50% (fifty percent) or more of the equity interests or rights to distributions on account of equity of the person and "Control" means the power to direct the management or policies of the person, whether through ownership of voting securities, by contract, or otherwise;
+"Applicable Laws" means the Electricity Laws, and all other central, or state legislation, statutes, ordinances and other laws, regulations and by-laws, notifications, policies, guidelines, code or rules or any interpretation of any of them by and of any legally constituted public authority in India and shall further include without limitation all applicable rules, regulations, orders, notifications by a Governmental Instrumentality pursuant to or under any of them and shall include without limitation all rules, regulations, decisions and orders of the Appropriate Commission; 
+"Appropriate Commission" means the Central Electricity Regulatory Commission referred to in Sub-Section (1) of section 76 or the State Electricity Regulatory Commission referred to in Section 82 or the Joint Electricity Regulatory Commission referred to in Section 83 of the Electricity Act 2003, as the case may be;
+"Approvals" means any authorisation, clearance, license, no-objection certificate, exemption, privilege, approval, registration, permit, waiver, acknowledgement, agreement, or concession required to be obtained from or provided by any concerned authority relating to the Works or to the performance by the Contractor of any obligations under this Contract;
+"Anti-Bribery Laws" means: 
+the (Indian) Prevention of Corruption Act, 1988;
+the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, 1997 (the "OECD Convention");
+the Foreign Corrupt Practices Act of 1977 of the United States of America, as amended by the Foreign Corrupt Practices Act amendments of 1988 and 1998, and as may be further amended and supplemented from time to time and any rules and regulations thereunder;
+the UK Bribery Act, 2010, and as may be further amended and supplemented from time to time, and any rules and regulations thereunder; and/or
+any other Applicable Law relating to bribery or corruption to the extent applicable which:
+
+  prohibits the conferring of any gift, payment or other benefit on any person or any officer, employee, agent, or adviser of such person; and/or
+
+  is broadly equivalent to, or was intended to enact, the provisions of the OECD Convention or which has as its objective the prevention of corruption;
+"Anti-Money Laundering Laws" means
+the latest European Union Anti-Money Laundering Directives available at https://ec.europa.eu/info/business-economy-euro/banking-and-finance/financial supervision-and-risk-management/anti-money-laundering-and-countering-financing-terrorism_en and as may be further amended and supplemented from time to time and any rules and regulations thereunder; and
+any other Applicable Law relating to anti-money laundering or anti-terrorist financing law, including any financial record keeping and reporting requirements;
+"Arbitral Tribunal" has the meaning set forth in Clause 20 (Claims, Disputes and Arbitration);
+"Battery Limit" means the Battery Limit as defined in Schedule 1 (Owner’s Requirements and Technical Specifications);
+"Best Industry Practice" means the methods, practices and acts which are generally engaged in or observed by reputed construction and power industry players with respect to the construction of facilities similar to the Works and which, with respect to any objective, may be expected, in the exercise of professional judgment, to accomplish that objective in a manner consistent with Applicable Laws, Approvals, reliability, safety, environmental protection, economy and expediency and the physical conditions of Project Site;
+"Business Day" means a day other than a Sunday or a statutory holiday, on which the banks remain open for business in [Insert the Project location]; 
+"CERC" means the Central Electricity Regulatory Commission of India, constituted under Sub-Section (1) of Section 76 of the Electricity Act; 
+"Change in Laws" has the meaning set forth in Clause 19 (Change in Laws);
+"Completion" means the stage of the Works when all of the following has occurred:
+the Contractor has installed at the Plant a minimum of _____ MWP of photovoltaic ("PV") modules as measured based on the nameplate (as opposed to measured) peak rating of such modules;
+all Tests on Completion have been passed and the Plant has been inspected and approved by the Inspector as required under the Electricity Act;
+the Minimum Performance Guarantees have been achieved in the Tests on Completion;
+the Performance Guarantees are achieved in the Tests on Completion or Performance Liquidated Damages are paid in respect of any performance shortfall;
+the Contractor has provided all documents and other information required under this Contract;
+the Works are capable of being operated safely under all anticipated or likely operational conditions;
+the Works are in a condition which allows the Owner to comply with all Applicable Laws relating to its operation;
+all Approvals to be obtained by the Contractor under this Contract and which are necessary for the operation of the Works have been transferred (to the extent necessary and/or permitted under Applicable Law) to the Owner or Owner's nominee; 
+the Works are performed and complete except for any minor outstanding work and defects which will not substantially affect the use of the Works for their intended purpose; and 
+the Plant has been fully connected to the Grid such that the Owner can evacuate power from the Plant up to _____ MWp without restriction. 
+"Contract" means Contract, (including all recitals, schedules and annexures to this Contract), as may be amended or supplemented from time to time in accordance with the provisions of this Contract;
+"Contract Date" has the meaning set forth above in the Preamble;
+"Contract Price" means the agreed amount stated in Schedule 2 (Schedule of Payments) for the design, execution and completion of the Works, the remedying of any defects, and the completion of all of the Contractor's obligations under this Contract, and includes adjustments (if any) in accordance with the Contract;
+"Contractor" means the person(s) named above as Contractor and their respective legal successors and assigns;
+"Contractor Background IP" has the meaning given in Sub-Clause 1.8 (Intellectual Property);
+"Contractor's Documents" means all calculations, drawings, manuals, models and other documents of a technical nature supplied by the Contractor under the Contract as specified in Schedule 10 (Contractor’s Documents);
+"Contractor's Equipment" means all apparatus, machinery, vehicles, and other things required for the execution and completion of the Works and the remedying of any defects. However, the Contractor's Equipment shall exclude Temporary Works, Owner's Equipment (if any), Plant and any other things intended to form or forming part of the Permanent Works;
+"Contractor's Personnel" means the Contractor's Representatives and all other personnel whom the Contractor utilises on Site, who may include the staff, labour and other employees of the Contractor and of each Subcontractor, and any other personnel assisting the Contractor in the execution of the Works;
+"Contractor's Representatives" has the meaning set forth in Sub-Clause 4.3 (Contractor’s Representatives);
+"Cost" means all expenditure reasonably incurred (or to be incurred) by the Contractor, whether on or off the Site, including overhead and similar charges, but does not include profit;
+"day" means a calendar day and year means 365 days;
+"Defect" means any Equipment and/or Material which: (a) does not conform to this Contract or the Technical Specifications, (b) is of improper or inferior workmanship or material, or (c) result in operation failure of the Project. Provided that defect shall not include conditions due to normal wear and tear of the Equipment and Material. 
+"Defects Liability Period" shall mean the time period as set out in Schedule 6 (Defects Liability Period); 
+"Electricity Act" means the Electricity Act, 2003, and includes any modifications, amendments and substitution from time to time;
+"Electricity Laws" means the Electricity Act and the rules and regulations made under it and any other laws pertaining to electricity including regulations framed by the Appropriate Commission;
+"Final Statement" means the statement defined in Sub-Clause 12.9 (Application for Final Payment);
+"Financing Agreements" means, collectively, any facility, credit or loan agreement or other documents (including security documents and debenture subscription agreement) under which the Owner obtains financing intended, directly or indirectly, for use in funding the costs and expenses incurred by the Owner in connection with the acquisition, development, construction, modification, repair or operation of the Project or any refinancing;
+"Force Majeure" is defined in Clause 18 (Force Majeure);
+"Goods" mean the Contractor's Equipment, materials, Plant and Temporary Works, or any of them as appropriate;
+"Governmental Instrumentality" means the Government of India, Governments of state(s) of Rajasthan and any ministry, department, board, authority, agency, corporation, commission under the direct or indirect control of the Government of India or any of the above state Government(s) or both, any political sub-division of any of them including any court or Appropriate Commission(s) or tribunal or judicial or quasi-judicial body of India;
+"Grid" means the electrical transmission system and any related equipment beyond the Battery Limit;
+"Grid Code" means the Grid Code specified by the CERC under clause (h) of sub-section (1) of section 79 of the Electricity Act, as amended from time to time, and/or the State Grid Code as specified by the relevant State Commission, referred under clause (h) of Sub-section (1) of Section 86 of the Electricity Act, as applicable;
+"Health and Safety Manager" has the meaning set forth in Sub-Clause 4.3 (Contractor’s Representatives);
+"Inspector" means the Chief Electrical Inspector to the Government of India or the Electrical Inspector, as the case may be, appointed pursuant to Section 162 (1) of the Electricity Act and the Rules for Qualifications, Powers and Functions of Chief Electrical Inspector and Electrical Inspectors, 2006;
+"Intellectual Property" means copyright, all rights conferred under Laws, common law or in equity in relation to inventions (including patents), registered and unregistered trademarks, registered and unregistered designs, confidential information, circuit layouts and all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields;
+"Lenders" means, collectively, all of the persons (including multilaterals, export credit agencies, debenture holders) providing financing or political risk insurance under the Financing Agreements or otherwise and any trustee or agent acting on those persons' behalf;
+"Major Subcontractor" means a Subcontractor providing Goods or services under a subcontract costing more than INR [■] (or the equivalent in any other currency) or involving certain critical components or services of the Works as more fully described in the Owner's Requirements;
+
+"Notice to Proceed" means a Limited Notice to Proceed or a Full Notice to Proceed issued by the Owner pursuant to Sub-Clause 7.1 (Commencement of Works);
+"Owner" means the person named above as the Owner and the legal successors in title to this person;
+"Owner Background IP" means Intellectual Property owned by or licensed to the Owner (including know-how and technical information) but does not include the Contractor Background IP or the Project IP;
+"Owner's Engineer" has the meaning set forth in Sub-Clause 3.2 (Owner’s Engineer);
+"Owner’s HSE Policy" means the Owner's Policy set out in Schedule 12 (Owner’s HSE Policy and Requirements);
+"Owner's Personnel" means Owner's Representative and all other staff, labour and other employees of the Owner and of the Owner's Representative; and any other personnel notified to the Contractor, by the Owner or the Owner's Representative, as Owner's Personnel;
+"Owner's Representative" means the person appointed from time to time by the Owner under Sub-Clause 3.1 (Owner’s Representative), who acts on behalf of the Owner;
+"Owner's Requirements" means, collectively, (i) the document entitled Owner's Requirements attached as Schedule 1 (Owner’s Requirements and Technical Specifications), which specifies the purpose, scope, and/or design and/or other technical criteria for the Works, and any additions and modifications to such requirements in accordance with the Contract;
+"Owner-Supplied Information" means any information, reports, and other documents (if any) in relation to the Works and the Site Conditions supplied by the Owner to the Contractor prior to the Contract Date;
+"Party" or "Parties" means the person or persons, as the context requires, referred above;
+"Performance Guarantees" means the performance guarantees specified in Schedule 3 (Schedule of Performance Guarantees); 
+Performance Liquidated Damages" means the liquidated damages for performance specified in Schedule 3 (Schedule of Performance Guarantees);
+"Performance Security" means the security (or securities, if any) under Sub-Clause ‎4.2 (Performance Security);
+"Plant" means a solar photovoltaic power plant comprising combination of Equipment (including all mechanical, electrical, instrumentation and control systems), Modules, all civil works,  all structural and architectural works and all other assets related thereto, that while being physically separated, become an integrated as a whole (in the form of a system) once put through the process of manufacture, installation, assembly and integration, and are thus ready for performing the function of solar power generation having an aggregate nameplate capacity of ___________
+"Programme" means the Contractor's programme prepared pursuant to Sub-Clause 7.3 (Programme);
+"Project" shall have the meaning ascribed to in the Recital A to this Contract;
+"Project IP" means all Intellectual Property arising out of or created by the Contractor or a Subcontractor in performing the Works and its obligations under this Contract, including Intellectual Property subsisting in or in relation to the Works and the Plant, the Contract and all Contractor's Documents, but does not include the Contractor Background IP or the Owner Background IP;
+"Project Manager" has the meaning set forth in Sub-Clause 4.3 (Contractor’s Representatives);
+"Project Revenue" means any revenue generated by operation of the Plant, whether prior to or following Owner's Taking Over, which revenue shall accrue to and be the property of the Owner;
+"Remedial Work" means the remedial work described in Sub-Clause 10.1 (Completion of Outstanding Work and Remedying Defects);
+"Right-of-Way" means any right or permission to travel over, use and/or enjoy any real property (including roadways) located outside the Site;
+"Rs." or "Rupees" means Indian Rupees, the lawful currency of the Country;
+"SBAR" means the prime lending rate per annum applicable for loans with one year maturity as fixed from time to time by the State Bank of India, and in the absence of such rate, any other rate as agreed by the Parties;
+"Schedule of Payments" mean the document as set out in Schedule 2 (Schedule of Payments);
+"Schedule of Tests" means the schedule for the Tests on Completion, including those set out in Schedule 4 (Schedule of Tests);
+"Site" means the places where the Permanent Works are to be executed as described in Schedule 1 (Owner’s Requirements and Technical Specifications), and any other places as may be specified in the Contract as forming part of the Site;
+"Site Conditions" means the site conditions in relation to the Site including:
+the general and local environmental conditions, meteorological conditions, seismic activity and climatic conditions;
+availability and quality of all necessary utilities and availability and condition of roads;
+availability of labour resources;
+physical conditions where the Works are to be performed and the surrounding area as a whole; and
+topography and ground surface conditions, subsurface geology and conditions, nature and quantity of surface and subsurface materials to be encountered, location of underground utilities and the condition of existing structures.
+"Site Manager" has the meaning set forth in Sub-Clause 4.3 (Contractor’s Representatives);
+"Statement" means a statement submitted by the Contractor as part of an application for payment under Clause 12 (Contract Price and Payment);
+"Subcontractor" means any person named in the Contract as a subcontractor, or any person appointed as a subcontractor, for a part of the Works, and their legal successors and assigns;
+"Taking-Over Certificate" means a certificate issued under Clause 9.1  (Owner’s Taking Over);
+"Taxes" means any and all indirect taxes (including GST), fiscal contributions, levies, imposts, duties (including customs duties), cess (including BOCW), deductions, withholdings, fees, and liabilities imposed by or on behalf of any Governmental Authority, but shall not include:
+All taxes on corporates and/or individual’s income, minimum alternate tax (if applicable), profit, distribution of dividends, real and personal property and input taxes on raw material procured by the Contractor; 
+All applicable withholding, capital gains tax; and 
+any other sums in relation to the sums in (a) or (b) above imposed on any account whatsoever.
+"Technical Specifications" has the meaning set forth in Schedule I (Owner’s Requirement and Technical Specifications); 
+"Temporary Works" means all temporary works of every kind (other than Contractor's Equipment) required on Site for the execution and completion of the Permanent Works and the remedying of any defects;
+"Tests on Completion" means the tests which are specified in the Contract, required by Applicable Laws, agreed by both Parties or instructed as a Variation (as applicable), and which are carried out under Clause 8 (Tests on Completion) before the Works are taken over by the Owner;
+
+"Time of Completion" means the date specified in the Taking-Over Certificate as to when the Completion occurred;
+"Variation" means any change to the Owner's Requirements or the Works, which is instructed or approved as a variation under Clause 11 (Variations and Adjustments); and 
+"Works" mean the Permanent Works and the Temporary Works, or either of them as appropriate.
+Interpretation
+(a)	In the Contract, except where the context requires otherwise:
+	(i)	words indicating one gender include all genders;
+(ii)	words indicating the singular also include the plural and words indicating the plural also include the singular; 
+(iii)       words indicating persons or parties include corporations and other legal entities;
+(iv)	reference to any statutory provision (including any secondary legislation) shall include such provision as modified, re-enacted or consolidated from time to time;
+(v)	provisions including the word "agree", "agreed" or "agreement" require the agreement to be recorded in writing;
+(vi)	references to 'including', 'included', or "include" will be read as if followed by the words "without limitation"; and
+(vii)	any reference to a document is to that document as amended, varied or novated from time to time otherwise than in breach of this Contract or that document.
+(viii) 	a reference to a clause or section is a reference to a clause or section of this Contract;
+(ix) 	a reference to a third person or a third party is a reference to a person who is not a party to this Contract;
+(x) 	the words "herein" and "hereunder", and words of similar import, refer to the entirety of this Contract and not only to the clause in which such use occurs; and  
+(xi)	 if a period of time is specified from a given day or from the day of an act of event, it is to be calculated exclusive of that day.
+(b) 	If the terms and conditions of the Clauses of this Contract vary or are inconsistent with any portion of the Schedules, the terms of the Clauses this Contract shall control and be given priority, and the provisions of the Schedules shall be subject to the terms of the Clauses.  
+(c)          The ejusdem generis rule does not apply to this Contract. Accordingly, specific words indicating a type, class or category of thing do not restrict the meaning of general words following such specific words, such as general words introduced by the word other or a similar expression.  Similarly, general words followed by specific words shall not be restricted in meaning to the type, class or category of thing indicated by such specific words.
+(d)	 The descriptive headings in this Contract, including the cover page and table of contents, are for convenience of reference only and not for the purposes of construction or interpretation of its provisions.
+(e) 	No rule of construction including the rule of Contra Proferentem applies to the disadvantage of one Party on the basis that the Party put forward or drafted this Contract, or any provision in it.  
+Communications
+Wherever this Contract provides for the giving or issuing of approvals, certificates, consents, determinations, notices and requests, these communications shall be:
+in writing and delivered by hand (against receipt), sent by mail or courier, or transmitted using any of the agreed systems of electronic transmission as stated in Sub-Clause 1.15 (Notices);
+Provided that, If a party fails to respond to a written communication requiring a decision within three (3) business days of receipt, the requesting party may proceed on the basis of deemed approval, provided that the communication was sent via agreed project channels."
+ and
+(b)	delivered, sent or transmitted to the address for the recipient's communications as stated in the Contract. However:
+(i)	if the recipient gives notice of another address, communications shall thereafter be delivered; accordingly, and
+(ii)	if the recipient has not stated otherwise when requesting an approval or consent, communications may be sent to the address from which the request was issued.
+Law and Language
+The Contract shall be governed by and construed in accordance with the laws of India.
+The language of the Contract and all correspondence, communications and submitted documents shall, except to the extent otherwise required under this Contract shall be submitted in English.  If this Contract or any other related documents are translated into another language, the English version shall prevail.
+Assignment and Novation
+Neither Party shall assign or transfer the whole or any part of the Contract or any benefit, interest, obligation or liability in or under the Contract, except that either Party may assign or transfer the whole or any part with the prior agreement of the other Party, at the sole discretion of such other Party. 
+However, notwithstanding the above, the Owner may, and the Contractor hereby consents to the Owner's right to:
+(i)	freely assign, pledge or transfer its benefits, interests, obligations or liabilities under this Contract or any part thereof to the Lenders (including any security or facility agent, or any nominee on behalf of the Lenders); and
+(ii)	novate this Contract at any time to any affiliate or subsidiary of the Owner, in which case the Contractor shall execute at the Owner's request a novation agreement substantially in the form provided by the Owner. 
+Care and Supply of Documents
+Each of the Contractor's Documents shall be in the custody and care of the Contractor, unless and until taken over by the Owner. Unless otherwise stated in the Contract, the Contractor shall supply to the Owner two copies of each of the Contractor's Documents.
+The Contractor shall keep on the Site, a copy of the Contract, publications named in the Owner's Requirements, the Contractor's Documents, and Variations and other communications given under the Contract. The Owner's Personnel shall have the right of access to all these documents at all reasonable times.
+If a Party becomes aware of an error or defect of a technical nature in a document which was prepared for use in executing the Works, the Party shall promptly give notice to the other Party of such error or defect.
+Confidentiality
+Each Party undertakes to the other Party to keep confidential all information in written  concerning the business and affairs of the other Party which it has obtained or received as a result of discussions leading up to entry into this Contract, or which it has obtained during the course of this Contract, except any information that is:
+(a)	subject to an obligation to disclose under Applicable Laws, or that is required to be disclosed by any competent regulatory authority, by notice or otherwise; or
+(b)	already in its possession other than as a result of a breach of this Clause 1.7; or
+(c)	in the public domain other than as a result of a breach of this‎ Clause 1.7,
+and provided further that Owner may disclose to its employees, agents, lenders and advisors any confidential information as may be reasonably necessary in connection with the development of the Project and the construction, operation and maintenance of the Works.
+Each Party undertakes to the other Party to take all steps that are necessary from time to time to ensure compliance with the provisions of this Clause 1.7 (Confidentiality) by its employees, agents and Subcontractors.  Prior to disclosing any information referred to in this Clause 1.7 in accordance with the exception granted in Sub-Clause 1.7(a) above, the disclosing Party shall notify and provide the other Party an opportunity to comment on the information in and manner of such disclosure. Neither Party may disclose any information referred to in but not subject to any exception under this Clause 1.7 (Confidentiality) without the prior written approval of the other Party.
+Intellectual Property
+As between the Parties, the Contractor shall retain Intellectual Property rights in Contractor's Documents and other design documents made by (or on behalf of) the Contractor prior to the Contract Date ("Contractor Background IP").  
+The Contractor shall be deemed (by signing the Contract) to give to Owner a non-terminable transferable non-exclusive royalty-free licence to use and communicate Contractor Background IP (related to Project), including making and using modifications to them. This licence shall:
+(a)	apply throughout the actual or intended working life (whichever is longer) of the relevant parts of the Works,
+(b)	entitle any person in proper possession of the relevant part of the Works to copy, use and communicate Contractor Background IP for the purposes of completing, operating, maintaining, altering, adjusting, repairing and demolishing the Works, and
+(c)	in the case of Contractor Background IP which is in the form of computer programs and other software, permit their use on any computer on the Site and other places as envisaged by the Contract, including replacements of any computers supplied by the Contractor.
+Contractor Background IP shall not, without the Contractor's consent, be used, copied or communicated to a third party by (or on behalf of) the Owner for purposes other than those permitted under this Clause 1.8 (Intellectual Property).
+All Project IP vests in and is the property of the Owner upon it coming into existence.
+The Owner grants to the Contractor a non-exclusive, royalty-free, non-transferable licence to use, reproduce, modify and adapt the Project IP and the Owner Background IP for the sole purpose of performing its obligations under this Contract. The licence will endure until the termination of this Contract or the expiry of the Defects Liability Period, whichever is earlier.
+The Contractor warrants and represents that:
+(i)	it has all rights and licences necessary to grant Owner the licences of Contractor Background IP granted in this Clause 1.8 (Intellectual Property); and
+(ii)	the Project IP, Contractor Background IP and any use of it by or on behalf of the Owner, whether in the operation or maintenance of the Works or otherwise, will not infringe the Intellectual Property rights of any third party.
+Contractor's Use of Owner's Documents
+As between the Parties, the Owner shall retain the Intellectual Property rights in the Owner's Requirements and the Owner-Supplied Information. The Contractor may, at his cost, use, and obtain communication of these documents for the purposes of performing the Contract only. They shall not, without the Owner's consent, be copied, used or communicated to a third party by the Contractor, except as necessary for the purposes of the Contract.
+Compliance with Applicable Laws
+The Contractor shall comply with all Applicable Laws, including those relating to Anti-Bribery Laws, labour, health and safety, and the environment, and shall give all notices, pay all Taxes, duties and fees and obtain and maintain all Approvals referred to in sub-Clause 2.2(a) (Permits, Licenses or Approvals), in each case as required by the Laws in relation to the design, execution and completion of the Works and the remedying of any defects; and the Contractor shall indemnify and hold the Owner harmless against and from the consequences of any failure to do so. 
+Site Survey and Data
+The Contractor shall be responsible for obtaining all necessary information as to risks, contingencies and other circumstances which may influence or affect the Contractor and the performance of the scope of Works as set out in Technical Specifications. The Contractor is deemed to have independently inspected and examined the Site, its surroundings and other available information, and to satisfy themselves about the scope of the Works as set out in the Technical Specifications of this Contract, including, without limitation:
+(a)	the form and nature of the Site, including sub-surface conditions,
+(b)	the hydrological and climatic conditions,
+(c)	the extent and nature of services and Goods necessary for the execution and completion of the Works and the remedying of any defect, 
+(d)	the Applicable Laws, procedures and labour practices of the state in which the Project shall be located, and
+(e)	the Contractors’ requirements for access, accommodation, facilities, personnel, power, transport, water and other services.
+Entire Agreement
+This Contract contains the entire agreement between the Parties, and supersedes all previous agreements between the Parties, relating to the transactions contemplated herein. No variation or amendment shall be effective unless in writing and signed by or on behalf of the Parties. Except as required by Applicable Laws, no terms shall be implied (whether by custom, usage or otherwise) into this Contract.
+	The Contractor acknowledges that it has not relied on any express or implied representation, warranty, collateral contract or other assurance made by or on behalf of the Owner at any time prior to the Contract Date.
+Severability
+The provisions contained in each Clause of this Contract shall be enforceable independently of each of the others and their validity shall not be affected if any of the others are invalid.
+Non-Waiver
+Any rights and remedies provided for in the Contract whether in favour of the Contractor or the Owner are cumulative and in addition to any further rights or remedies which may otherwise be available to the Parties. Unless specifically stated in the Contract, any failure by either Party to enforce such rights or remedies shall not be a waiver of such rights or remedies. Any approval given by the Owner shall not in any way either reduce or relieve the Contractor of its obligations under this Contract.
+Notices
+Any notice or other communication to be given under this Contract must be in writing and may be delivered or sent by post, fax or email to the Party to be served at its address as follows:
+or at such other address, fax number or email address as such Party may have notified to the other Party in accordance with this Clause 1.15 (Notices). Any notice or other document sent by post shall be sent by prepaid first class recorded delivery post (if within India) or by prepaid airmail (if elsewhere).
+Any notice or other formal communication shall be deemed to have been given:
+(a)	if delivered, at the time of delivery; or
+(c)	if sent by fax or email, on the date of transmission, if transmitted before 3.00 p.m. on any 		Business Day, and in any other case on the Business Day following the date of transmission.
+In proving service of a notice or other formal communication, it shall be sufficient to prove:
+(i)	if delivered by post, that the envelope containing the communication was properly addressed and posted either by prepaid first class recorded delivery post or by prepaid airmail; and
+(ii)	if sent by e-mail or fax, that the email or fax was delivered to the recipient's fax number or e-mail address referred to in this Clause 1.15 (Notices) as evidenced by a return confirmation from the receiving party's fax machine or e-mail system (as the case may be).
+This Sub-Clause shall not apply in relation to the service of any claim form, notice, order, judgment or other document relating to or in connection with any proceedings, suit or action arising out of or in connection with this Contract.
+Counterparts
+This Contract may be executed in any number of counterparts, whether signed originally or reproduced by facsimile, each of which shall be deemed to be an original, and all of which shall constitute one and the same instrument.
+Owner
+Right of Access to the Site
+Upon the effective date of the Full Notice to Proceed, or upon such earlier date as the Owner may specify in a Limited Notice to Proceed, the Owner shall give the Contractor right of access to, and possession of, those parts of the Site necessary for carrying out the Works or any part of them.  The Contractor acknowledges and agrees that such right and possession may not be exclusive to the Contractor and will be subject to the terms of any relevant Approvals. If, under the Contract, the Owner is required to give (to the Contractor) possession of any foundation, structure, plant or means of access, the Owner shall do so in the time and manner stated in the Owner's Requirements. However, the Owner may withhold any such right or possession until the Performance Security has been received.
+If the Contractor suffers delay and/or incurs Cost as a result of a failure by the Owner to give any such right or possession upon the effective date of the Full Notice to Proceed (but if and only to the extent that such failure was not caused by the Contractor), the Contractor shall give notice to the Owner's Representative and shall be entitled subject to Clause 20.1 (Contractor’s Claims) to:
+(a)	an extension of time for any such delay, if Completion is or will be delayed, under Sub-Clause 7.4 (Extension or Acceleration of Time for Completion); and
+(b)	the payment of any such Cost, which shall be added to the Contract Price.
+After receiving this notice, the Owner shall proceed in accordance with Clause 20.1 (Contractor’s Claims) or Clause 3.4 (Determinations) to determine, or agree or determine, these matters.
+Permits, Licences or Approvals
+(a)	The Contractor must acquire and maintain all Approvals (including those required under the applicable labour Laws) which are necessary for the performance of the Works. 
+(b)	All Approvals obtained by the Contractor in accordance with Sub-Clause 2.2 (a) must, to the extent necessary and permitted by Applicable Laws, be transferrable to the Owner.
+(c)	The Contractor shall promptly provide the Owner with copies of all such Approvals upon Contractor’s obtaining such Approvals. 
+Owner's Personnel
+The Owner shall be responsible for ensuring that the Owner's Personnel and Owner's other contractors (if any) on the Site co-operate with the Contractor's efforts under Clause 4.7 (Co-operation). 
+Owner's Claims
+If the Owner considers itself to be entitled to any payment under any Clause of this Contract or otherwise in connection with the Contract, it shall give notice and particulars to the Contractor. However, notice is not required for payments due under Sub-Clause 4.20 (Electricity, Water, Utilities and Other Services), or for other services/utilities requested by the Contractor. 
+The notice shall be given as soon as practicable, but in any event not later than [Insert number of days] after the Owner becomes aware of the event or circumstances giving rise to the claim. 
+The particulars shall specify the Clause or other basis of the claim and shall include substantiation of the amount to which the Owner considers itself to be entitled in connection with the Contract. The Owner shall then proceed in accordance with Sub-Clause 3.4 (Determinations) to agree or determine the amount (if any) which the Owner is entitled to be paid by the Contractor.
+The Owner may deduct this amount from any moneys due, or to become due, to the Contractor, subject to [Insert number of days] of Notice has been provided to rectify any deficiencies and  The Owner shall only be entitled to set off against or make any deduction from an amount due to the Contractor, or to otherwise claim against the Contractor, in accordance with this Clause 2.4 (Owner’s Claims) or with paragraphs (a) and/or (b) of Clause 12.5 (Interim Payments).
+Owner's Administration
+Owner's Representative
+The Owner may appoint an Owner's Representative to act on its behalf under the Contract. In this event, the Owner shall give notice to the Contractor of the name, address, duties and authority of the Owner's Representative.
+The Owner's Representative shall carry out the duties assigned to him, and shall exercise the authority delegated to him, by the Owner. Unless and until the Owner notifies the Contractor otherwise, the Owner's Representative shall be deemed to have the full authority of the Owner under the Contract, except in respect of Clause 14 (Termination by Owner).
+If the Owner wishes to replace any person appointed as the Owner's Representative, the Owner shall give the Contractor not less than [Insert number of days] notice of the replacement's name, address, duties and authority, and of the date of appointment.
+Any approval, check, certificate, consent, examination, inspection, instruction, notice, proposal, request, test, or similar act by the Owner’s Representative, in accordance with the delegation, shall have the same effect as though the act had been an act of the Owner. However, save as otherwise provided under this Contract, no approval, expression of satisfaction, comment, review, test, inspection, payment or certificate made or given (or any failure to make or give the same) by the Owner's Representative, shall relieve the Contractor of any of its obligations, risks or liabilities.
+Owner’s Engineer
+(a)	The Owner may (at its sole option), within [Insert number of days] of the Contract Date, appoint the Owner's Engineer at its own cost, authorising him to carry out duties with respect to all technical matters including, review of basic and detailed construction, review of documents to be prepared by the Contractor, billing certifications, audit type quality control, Site supervision services, etc., and notify the Contractor’s Representative in this regard. The Owner may, from time to time, appoint some other person as the Owner’s Engineer, in place of the person previously so appointed, and shall provide a notice of the name and address of such other person to the Contractor’s Representative. 
+(b)	The Owner’s Engineer, if appointed, shall have full authority to act on behalf of the Owner, at all times during the term of this Contract, for the purposes of the matters set out in Clause 3.2(a).
+(c)	With regard to all technical matters, the Contractor shall perform its obligations under this Contract in accordance with the written decisions, instructions and orders provided by the Owner or the Owner’s Engineer (if appointed) subject to and in accordance with this Contract, including provisions for Variation as set out in Clause 11 (Variation and Adjustment). All decisions, instructions, or orders provided by the Owner’s Engineer shall be effective only when the same are issued in writing. In the event of any conflict between the decisions, instructions or orders issued by the Owner and the Owner’s Engineer, the decisions, instructions, or orders issued by the Owner shall prevail.
+Instructions
+The Owner may, from time to time, issue to the Contractor written instructions which may be necessary for the Contractor to perform its obligations under the Contract. Each instruction shall state the obligations to which it relates and the Sub-Clause (or other term of the Contract) in which the obligations are specified. If the Contractor is of the view that such instruction constitutes a Variation, the Contractor shall give written notice to the Owner and the provisions of Clause 11 (Variations and Adjustments) shall apply provided that the instruction shall only constitute a Variation if the Owner subsequently issues a Variation order in accordance with Sub-Clause 11.1 (Right to Vary). 
+The Contractor shall take instructions from the Owner or from the Owner's Representative.
+Determinations
+Whenever this Contract provides that the Owner shall proceed in accordance with this Clause 3.4 (Determinations) to agree or determine any matter, the Owner shall consult with Contractor in an endeavour to reach agreement. If agreement is not achieved, the Owner shall make a fair determination in accordance with the Contract, taking due regard of all relevant circumstances.
+Without prejudice to the generality of the previous paragraph, if the Owner is required to make a fair determination of any adjustment of the Contract Price under this Clause 3.4 (Determinations), the increase or decrease in the Contract Price shall be valued at such value as the Owner shall fix, in its opinion, as appropriate, and the Owner shall notify the Contractor accordingly. 
+Contractor
+Contractor's General Obligations
+The Contractor shall design, execute and complete the Works and shall remedy any defects in the Works in each case in accordance with the Contract and Applicable Laws. All design elements of the Works shall comply with the terms and conditions of any Approvals required for developing, commissioning and operating the Project. All Plant shall be new and unused, and when completed, the Works shall be fit for the purposes for which the Works are intended as defined in the Contract or, where no such purpose is defined, fit for its ordinary purpose.
+The Contractor shall provide the Plant and Contractor's Documents specified in the Contract, and all Contractor's Personnel, Goods, consumables and other things and services, whether of a temporary or permanent nature, required in and for the design, execution, completion and remedying of defects.
+The Works shall include any work which is specified in or necessary to satisfy the Owner's Requirements, or is implied by the Contract, and all works which (although not mentioned in the Contract) can be reasonably inferred in accordance with Applicable Laws and Best Industry Practice as being necessary for stability or for the completion, or safe and proper operation, of the Works.
+The Contractor shall be solely responsible for the adequacy, stability and safety of all Site operations, of all methods of construction and of all the Works.
+The Contractor shall, whenever required by the Owner, submit details of the arrangements and methods which the Contractor proposes to adopt for the execution of the Works. No significant alteration to these arrangements and methods shall be made without this having previously been notified to the Owner.
+Performance Security
+The Contractor shall obtain (at its cost) a Performance Security for proper performance as per the amount specified in Schedule 2 (Schedule of Payments). 
+The Contractor shall deliver the Performance Security to the Owner before the related payment as specified in Schedule 2 (Schedule of Payments). The Performance Security shall be issued by a scheduled commercial bank in India approved by the Owner, and shall be in the form set out in Schedule 5 (Form of Performance Security) or in another form approved by the Owner.
+Upon any increase in the Contract Price pursuant to the terms of this Contract, the Owner may request, and the Contractor shall within [Insert number of days] thereafter provide, an increase in the amount of the Performance Security such that it remains at a value not less than the specified percentage of the Contract Price.
+All costs associated with providing and maintaining the Performance Security shall be borne solely by the Contractor.
+The Owner shall release the Performance Security when:
+(a)	the Defects Liability Period has expired; and
+(b)	the Contractor has complied with all its obligations under the Contract.
+The Owner shall be entitled to draw the full outstanding amount of any Performance Security: 
+(i)	at any time if the Contractor has failed to observe or perform any of the terms, conditions or provisions of this Contract; or
+(ii)	upon occurrence of the Contractor default described in Sub-Clause 14.2(i) (Termination by the Owner); or
+(iii)	on or after the date which is [Insert number of days]  prior to the scheduled expiration of such Performance Security, and if on such date the Owner is not yet obliged under the Contract to release such Performance Security but the Contractor has not provided a replacement Performance Security conforming to the terms of the Contract.
+Provided that the Owner has issued a written notice in accordance with Clause  14.1 and the Contractor has not able to cure such default/ breach of any terms of this contract within 30 days of the Written Notice. 
+Contractor's Representatives
+The Contractor shall appoint:
+(a)	Project Manager: To manage the Works (including expediting timely delivery of all information necessary for Project permitting) and act as the primary liaison with the Owner, a Project Manager having sufficient skills and relevant experience in complex engineering, procurement and construction projects generally and [solar PV] power generation projects in particular;
+(b)	Site Manager: At the Site, a Site Manager with sufficient skills and relevant experience to work under the direction of the Project Manager and directly supervise the construction, testing and commissioning of the relevant Works; and
+(c)	Health and Safety Manager: To manage the Contractor's health and safety obligations on the Project, a Health and Safety Manager with sufficient skills, experience and authority within the Contractor's organization to ensure that all applicable health and safety requirements are met during the performance of the Works,
+together the Contractor's Representatives, each of whom shall have all authority necessary to act on the Contractor's behalf under the Contract and any qualifications required by Applicable Laws.
+The Contractor's Representatives shall be those persons listed in Schedule 11 (Contractor’s Representatives). The Contractor shall not, without the prior consent of the Owner, revoke the appointment of, or appoint a replacement for, any Contractor's Representative who otherwise remains employed by the Contractor or any of its affiliates. If replacement of any Contractor's Representative becomes necessary due to circumstances beyond the Contractor's reasonable control, the Contractor shall promptly submit to the Owner for consent the names and particulars of the proposed replacement who shall be of equal or greater qualifications. If consent is withheld or subsequently revoked, the Contractor shall similarly submit the names and particulars of other suitable persons for such appointments.
+The Project Manager and the Site Manager shall have the authority, on behalf of the Contractor, to receive instructions under Sub-Clause 3.3 (Instructions).
+The Contractor's Representatives may delegate any powers, functions and authority to any competent person, and may at any time revoke the delegation.  Any delegation or revocation shall not take effect until the Owner has received prior notice signed by the Contractor's Representative, naming the person and specifying the powers, functions and authority being delegated or revoked.
+The Project Manager and any of their respective delegates shall be fluent in English.  The Contractor's Site Manager, the Health and Safety Manager and any of their respective delegates shall be fluent in English and the local languages predominantly spoken in the region where the Project is located.
+Subcontractors
+The Contractor shall not subcontract the whole of the Works.
+The Contractor shall be responsible for the proper performance by, and liable for the acts or defaults of, any Subcontractor, his agents or employees, as if they were the acts or defaults of the Contractor.  The Contractor shall pay and satisfy, or cause to be paid and satisfied, all undisputed invoices and claims issued in accordance with the subcontracts of any Subcontractor in so far as they relate to the Works. The Contractor shall ensure that the Subcontractors comply with the terms and conditions of the Approvals and requirements of Applicable Laws. 
+Transfer of Subcontracts to Owner
+Each subcontract in respect of a Major Subcontractor shall be assignable by the Contractor to the Owner (as collateral security or absolutely) or the Lenders or their nominees in the following circumstance without the Major Subcontractor's further consent. 
+(i) 	Either the contract has been terminated due to the Event of default of the contractor 
+(b)	Each subcontract in respect of a Major Subcontractor shall either require the relevant Major Subcontractor to execute an acknowledgment and consent in substantially the form agreed by the Owner. Promptly after the Owner's request, the Contractor shall deliver to the Owner a copy of any such executed acknowledgment and consent or subcontract (unpriced). Each subcontract should further provide that upon notification to the Major Subcontractor from the Owner that:
+	(i)	this Contract has been terminated; and
+(ii)	the Owner or a designee thereof will thereafter be assuming the Contractor's future obligations under such subcontract,
+then:
+The Contractor and such Major Subcontractor shall execute a novation agreement in substantially the form agreed by the Owner, in favour of the Owner or its designee; and
+such Major Subcontractor shall continue to perform its responsibilities under such subcontract for the benefit of the Owner or such designee and shall recognize the Owner or such designee as being vested with all the rights and responsibilities of the Contractor under such subcontract; provided that the Contractor shall maintain all rights and claims against each Major Subcontractor for the portion of work previously performed.
+Notwithstanding the foregoing, it is specifically understood and agreed (and each Subcontractor shall so acknowledge in its subcontract) that no Subcontractor shall have any right to look to the Owner or any designee thereof for the performance of the Contractor's obligations under any subcontract unless and until such Subcontractor has received such notice from the Owner or such designee and then only with respect to future obligations under such subcontract.
+Assignment of Subcontractors' Warranties
+If any Subcontractor provides any warranty, performance guarantee or other continuing benefits in relation to any part of the Works which extends beyond the Defects Liability Period applicable to such part of the Works, the Contractor shall, on the earlier of expiry of the Defects Liability Period applicable to such part of the Works and termination of this Contract, assign such warranty, performance guarantee or other continuing benefits to the Owner.
+Setting Out
+The Contractor shall set out the Works in relation to original points, lines and levels of reference specified in the Contract. The Contractor shall be responsible for the correct positioning of all parts of the Works, and shall promptly rectify any error in the positions, levels, dimensions or alignment of the Works.
+Safety Procedures
+The Contractor shall:
+(a)	comply with all applicable safety Laws and the Owner’s HSE Policy in relation to the Works;
+(b)	take care for the safety of all persons entitled to be on the Site and the Contractor shall follow all requisite safety norms at the Site (including the Owner’s HSE Policy) that are primarily essential to carry out works of this nature as per Best Industry Practice;
+(c)	keep the Site and Works clear of unnecessary obstruction so as to avoid danger to these persons;
+(d)	ensure security of the Works until the Owner has issued (or is deemed to have issued) the Taking-Over Certificate; and
+(e)	provide any Temporary Works [(including roadways, footways, guards and fences)] which may be necessary, because of the execution of the Works, for the use and protection of the public and of owners and occupiers of adjacent land.
+Quality Assurance
+The Contractor shall institute a quality assurance system to demonstrate compliance with the requirements of the Contract. The system shall be in accordance with the details stated in the Contract.  The Owner shall be entitled to audit any aspect of the system and such system is subject to approval in writing by the Owner.
+Details of all procedures and compliance documents shall be submitted to the Owner for information before each design and execution stage is commenced. When any document of a technical nature is issued to the Owner, evidence of the prior approval by the Contractor itself shall be apparent on the document itself. 
+Reliance on Site Data
+The Contractor shall be responsible for verifying and interpreting all such data and analysing the Site Conditions (including its surroundings, its geological condition, and adequacy of the road and rail links to the Site and the availability of adequate supplies of water). The Owner shall have no responsibility for, and the Contractor shall not be entitled to any extension of time or increase in the Contract Price due to any deficiency in, the accuracy, sufficiency or completeness of such data, except as stated in Sub-Clause 5.1 (General Design Obligations).
+Sufficiency of the Contract Price
+The Contractor shall be deemed to have satisfied itself as to the correctness and sufficiency of the Contract Price. Unless otherwise stated in the Contract, the Contract Price covers all Contractor's obligations under the Contract and all things necessary for the proper design, execution and completion of the Works and the remedying of any defects.
+Unforeseeable Difficulties
+Except as otherwise stated in the Contract:
+(a)	The Contractor shall be deemed to have obtained all necessary information and satisfied itself as to the Site Conditions and all other risks, contingencies and circumstances which may influence or affect the Works;
+(b)	the Contract Price shall not be adjusted and the Time for Completion shall not be extended to take account of any unforeseen costs or difficulties unless it is the Force Majure condition or any other condition which is not attributed to the Contractor   
+Rights of Way and Facilities
+If the Contractor requires any special and/or temporary Rights-of-Way, including for access to the Site, the Contractor shall bear all costs and charges for such special and/or temporary Rights-of-Way.  The Contractor shall also obtain, at his risk and cost, any additional facilities outside the Site which he may require for the purposes of the Works.
+Avoidance of Interference
+The Contractor shall not interfere unnecessarily or improperly with:
+(a)	the convenience of the public; 
+(b)	the functions of any legally constituted public authority or Government Instrumentality or any government agency; or
+The Contractor shall indemnify and hold the Owner harmless against and from all damages, losses and expenses (including reasonable legal fees and expenses) resulting from any such unnecessary or improper interference.
+Access Route
+The Contractor shall be deemed to have been satisfied as to the suitability and availability of access routes to the Site.  The Contractor shall use reasonable efforts to prevent any road or bridge from being damaged by Contractor's traffic or by the Contractor's Personnel. These efforts shall include the proper use of appropriate vehicles and routes.
+Except as otherwise stated in this Contract:
+(a)	The Contractor shall (as between the Parties) be responsible for any maintenance which may be required for his use of access routes;
+(b)	the Owner shall not be responsible for any claims which may arise from the use or otherwise of any access route, and the Contractor shall indemnify and hold the Owner harmless against and from all damages, losses and expenses (including legal fees and expenses) resulting from the Contractor's failure to comply with its obligations under this Clause 4.17 (Transport of Goods);
+(c)	the Owner does not guarantee the suitability or availability of particular access routes; and
+(d)	the Costs due to non-suitability or non-availability, for the use required by the Contractor, of access routes shall be borne solely by the Contractor.
+Transport of Goods
+Unless otherwise stated in the Contract:
+(a)	the Contractor shall be responsible for packing, loading, transporting, receiving, unloading, storing and protecting all Goods and other things required for the Works; and
+(b)	the Contractor shall indemnify and hold the Owner harmless against and from all damages, losses and expenses (including legal fees and expenses) resulting from the transport of Goods, and shall negotiate and pay all claims arising from their transport.
+Contractor's Equipment
+The Contractor shall be responsible for and bear the risk of loss and damage to all the Contractor's Equipment. When brought on to the Site, the Contractor's Equipment shall be deemed to be exclusively intended for the execution of the Works. The Contractor shall not remove from the Site any Contractor's Equipment without the prior approval of the Owner, which shall be given within [Insert number of days] 
+Protection of the Environment
+In order to protect the environment (both on and off the Site) and to limit damage and nuisance to people and property resulting from pollution, noise and other results of the Contractor's operations, the Contractor shall take all necessary steps and comply with all Applicable Laws, Approvals and terms of Owner’s HSE Policy. 
+The Contractor shall indemnify and hold Owner harmless against and from all damages, losses and expenses (including legal fees and expenses) to the extent resulting from the Contractor's failure to comply with its obligations under this Clause 4.20 (Electricity, Water, Utilities and Other Services).
+Electricity, Water, Utilities and Other Services
+The Contractor shall, unless otherwise stated in this Contract, be responsible for the provision of all power, water, utilities and other services that the Contractor may require.
+Progress Reports
+Unless otherwise stated in this Contract, the Contractor shall: (i) prepare and submit to the Owner monthly progress reports in accordance with the requirements set forth in Schedule 8 (Programme Specifications), and (ii) participate in monthly Project review meetings and weekly Project conference calls with the Owner. Reporting shall continue until the Contractor has completed all Works which are known to be outstanding at the Time of Completion.
+Security of the Site
+The Contractor shall be responsible for Site safety and security as specified in Schedule 1 (Owner’s Requirements) and for keeping unauthorised persons off the Site.  Authorised persons shall be limited to Contractor's Personnel, Owner's Personnel, Owner’s Engineer and to any other personnel notified to the Contractor, by (or on behalf of) the Owner, as authorised personnel of the Owner's other contractors on the Site.
+Contractor's Operations on Site
+The Contractor shall confine its operations to the Site, and to any additional areas which may be obtained by the Contractor and agreed by the Owner as working areas. The Contractor shall take all necessary precautions to keep the Contractor's Equipment and the Contractor's Personnel within the Site and these additional areas, and to keep them off adjacent land.
+During the execution of the Works, the Contractor shall keep the Site free from all unnecessary obstruction, and shall store or dispose of any Contractor's Equipment or surplus materials. The Contractor shall clear away and remove from the Site any wreckage, rubbish and Temporary Works which are no longer required. All the recyclable portion of the discharge material will be evacuated through proper systems to ensure the recycle.
+Upon the Time of Completion, the Contractor shall clear away and remove all the Contractor's Equipment, surplus material, wreckage, rubbish and Temporary Works.  The Contractor shall leave the Site and the Works in a clean and safe condition.  However, the Contractor may retain on the Site, during the Defects Liability Period, such Goods as are required for the Contractor to fulfil obligations under the Contract.
+Fossils and Artefacts
+All fossils, coins, articles of value or antiquity, and structures (including structures of religious or cultural importance) and other remains or items of geological or archaeological interest found on the Site shall be placed under the care and authority of the Owner. The Contractor shall take reasonable precautions to prevent the Contractor's Personnel from removing or damaging any of these findings.
+In addition to any obligations it may have under Applicable Laws, the Contractor shall, upon discovery of any such finding, promptly give notice to the Owner, who shall issue instructions for dealing with it. If the Contractor suffers delay and/or incurs Cost from complying with the instructions, the Contractor shall give a further notice to the Owner and shall be entitled, subject to Clause 20.1 (Contractor’s Claims), to:
+(a)	an extension of time for any such delay, if Completion is or will be delayed, under Clause 7.4 (Extension or Acceleration for Time for Completion); and
+(b)	payment of any such Cost, which shall be added to the Contract Price.
+After receiving this notice, the Owner shall proceed in accordance with Clause 20.1 (Contractor’s Claims) or Clause 3.4 (Determinations) to determine, or agree or determine, these matters.
+Design
+General Design Obligations
+The Contractor hereby represents and warrants to the Owner that it has scrutinised, prior to the Contract Date, the Owner's Requirements (including design criteria, details and calculations, if any).  The Contractor shall be responsible for the design of the Works and for the accuracy and sufficiency of such Owner's Requirements (including design criteria, details and calculations) subject to the Contractor has accepted the changes without any comments or disclaimer to Owner and except as stated below.
+The Owner shall not be responsible for any error, inaccuracy or omission of any kind in the Owner's Requirements as originally included in the Contract and shall not be deemed to have given any representation of accuracy or completeness of any data or information, except as stated below. Any data or information received by the Contractor, from the Owner or otherwise, shall not relieve the Contractor from its responsibility for the design and execution of the Works.
+However, the Owner shall be responsible for the correctness of the following portions of the Owner's Requirements and of the following data and information provided by (or on behalf of) the Owner:
+(a)	portions, data and information which are stated in the Contract as being immutable or the responsibility of the Owner;
+(b)	definitions of intended purposes of the Works or any parts thereof; and
+(c)	criteria for the testing and performance of the completed Works.
+Owner-Supplied Information
+The Contractor acknowledges and agrees that all the Owner-Supplied Information is provided for the convenience of the Contractor only and that the Contractor enters into this Contract based on its own investigations and determinations as to the accuracy and adequacy of that information.
+The Contractor is not entitled to any extension of time or any Costs arising out of or in connection with any Owner -Supplied Information. Any errors or omissions in the Owner-Supplied Information do not affect the warranties provided by, or the obligations of, the Contractor under this Contract. 
+As-Built Documents
+The Contractor shall prepare, and keep up-to-date, a complete set of 'as-built' records of the execution of the Works, showing the exact as-built locations, sizes and details of the work as executed. 
+The Contractor shall obtain the consent of the Owner as to their size, the referencing system, and other relevant details. Prior, and as a condition precedent, to the issue of any Taking-Over Certificate, the Contractor shall supply to the Owner the specified numbers and types of copies of the relevant as-built drawings, in accordance with the Owner's Requirements. Completion shall not be achieved until the Owner has received these documents.
+Staff and Labour
+Engagement of Staff and Labour
+Except as otherwise stated in the Owner's Requirements, the Contractor shall make arrangements for the engagement of all Contractor's staff and labour, local or otherwise, and for their payment, housing, feeding, transport, and all other statutory benefits available to the Contractor's staff and labour, in accordance with Applicable Laws including (but not limited to) the Contract Labour (Regulation and Abolition) Act 1970 and the Inter-state Migrant Workmen Act 1979.
+Rates of Wages and Conditions of Labour
+The Contractor shall pay (and ensure that its Subcontractors pay) rates of wages, and observe conditions of labour, which are prescribed under Applicable Laws and is not lower than those established for the trade or industry where the work is carried out.  
+Persons in the Service of Others
+The Contractor shall not recruit, or attempt to recruit, staff and labour from amongst  Owner's Personnel.
+Labour Laws
+The Contractor shall comply with all the relevant labour Laws applicable to the Contractor's Personnel, including Applicable Laws relating to their employment, health, safety, welfare, maternity benefits, immigration and emigration, and shall allow them all their legal rights. The Contractor shall ensure that Subcontractors comply with all applicable labour Laws. 
+The Contractor shall require Contractor's Personnel to obey all applicable Laws and Approvals, including those concerning safety at work and the Owner’s HSE Policy. 
+Facilities for Staff and Labour
+Except as otherwise stated in the Owner's Requirements, the Contractor shall provide and maintain all necessary accommodation and welfare facilities for the Contractor's Personnel and any workers/employees of its Subcontractors. 
+The Contractor shall also provide facilities for Owner's Personnel as stated in the Owner's Requirements.
+For avoidance of doubt, it is clarified that the Contractor shall not permit any of the Contractor's Personnel to maintain any temporary or permanent living quarters within the structures forming part of the Permanent Works.
+Health and Safety
+The Contractor shall at all times take all reasonable precautions to maintain the health and safety of the Contractor's Personnel as required by applicable Laws, Best Industry Practice and the Owner’s HSE Policy. In collaboration with local health authorities, the Contractor shall ensure that medical staff, first aid facilities, sick bay and ambulance service are available at all times at the Site and at any accommodation for the Contractor's Personnel and the Owner's Personnel, and that suitable arrangements are made for all necessary welfare and hygiene requirements.
+The Contractor shall send to the Owner details of any accident within 24 (twenty-four) hours following its occurrence.  The Contractor shall maintain records and make reports concerning health, safety and welfare of persons and damage to property, as the Owner may reasonably require.
+Contractor's Superintendence
+Throughout the design and execution of the Works, and as long thereafter as is necessary to fulfil Contractor's obligations, the Contractor shall provide all necessary superintendence to plan, arrange, direct, manage, inspect and test the Works.
+Superintendence shall be given by a sufficient number of persons having adequate knowledge of the language for communications (defined in Clause 1.4 (Law and Language)) and of the operations to be carried out (including the methods and techniques required, the hazards likely to be encountered and methods of preventing accidents), for the satisfactory and safe execution of the Works.
+Contractor's Personnel
+The Contractor's Personnel shall be appropriately qualified, skilled and experienced in their respective trades or occupations. The Owner may require the Contractor to remove (or cause to be removed) any person employed on the Site or Works, including the Contractor's Representative if applicable, who:
+(a)	persists in any misconduct or lack of care; or
+(b)	carries out duties incompetently or negligently; or
+(c)	fails to conform with any provisions of the Contract; or
+(d)	persists in any conduct which is prejudicial to safety, health, or the protection of the environment.
+The Contractor shall  appoint a replacement within 7 business days  who is no less qualified than the person being replaced.
+Commencement, Delays and Suspension
+Commencement of Works
+(a)	The Contractor shall not commence execution of the Works until it has:
+(i)	provided satisfactory evidence that the insurances for which it is responsible under this Contract have been effected. 
+(b)	The Owner may issue a Notice to Proceed at any time following satisfaction of the conditions in Clause 7.1(a), save that if:
+(i)	the Contractor has failed to perform any of its obligations under Clause 7.1(a) within [Insert number of days] following the Contract Date; and
+then Owner may by written notice to the Contractor declare the relevant Notice to Proceed issued for the exclusive purpose of calculating the Time for Completion.
+(c)	The Contractor shall commence the design and execution of the Works as soon as is reasonably practicable after the Contract Date and shall then proceed with the Works with due expedition and without delay.
+Time for Completion
+The Contractor shall complete the whole of the Works within the Time for Completion, including achieving the passing of the Tests on Completion.
+Post the passing of the Tests on Completion, the Contractor shall complete all work which is stated in the Contract as being required for the Works to be considered to be completed for the purposes of taking-over under Clause 9.1 (Taking Over of the Works) within [Insert number of days] of Time for Completion.
+Programme
+During the term of the Contract, the Contractor shall prepare, maintain, update and submit time Programmes to the Owner in accordance with the requirements set forth in Schedule 8 (Programme Specifications). No notice or comment on, or approval of, any Programme by the Owner or the Owner’s Engineer shall relieve the Contractor of any of its obligations under the Contract.
+Extension or Acceleration of Time for Completion
+The Contractor shall be entitled subject to Clause 20.1 (Contractor’s Claims) to an extension of the Time for Completion if and only to the extent that the Completion is or will be delayed by any of the following causes:
+(a)	a Variation (unless an adjustment to the Time for Completion has been agreed under Clause 11.3 (Variation Procedure)); or
+(b)	a cause of delay giving an entitlement to extension of the Time for Completion under any provision of this Contract other than where such delay is caused by the Contractor; or
+It is a further condition of the Contractor's entitlement to any extension of the Time for Completion that the Contractor has taken all reasonable steps to mitigate the effects of such delay and that the critical path noted on the then-current Owner-approved Programme is shown by the Contractor to have been affected in a manner and by an amount of time consistent with the Contractor's request for an extension of the Time for Completion.
+If there are two or more concurrent causes of delay and only one of those concurrent causes is a cause of delay which would entitle the Contractor to an extension of time in accordance with this Clause 7.4 (Extension or Acceleration of Time for Completion) then the Contractor shall not be entitled to an extension of time for the period of such concurrency.
+The Owner may at any time direct the Contractor to accelerate all or any part of the Works or accelerate the Time for Completion for any reason including as an alternative to granting an extension of time.  The Contractor shall be entitled to all extra Costs, as assessed by the Owner, necessarily incurred by the Contractor in complying with an acceleration order, except where such order was issued as a consequence of any act or omission of the Contractor.
+Rate of Progress
+If, at any time:
+(a)	actual progress is too slow to complete within the Time for Completion; and/or
+(b)	progress has fallen (or will fall) behind the then-current Owner-approved Programme under Clause 7.3 (Programme),
+other than as a result of a cause listed in Clause 7.4 (Extension or Acceleration of Time for Completion), then the Owner may instruct the Contractor to submit, under Clause 7.3 (Programme), a revised Programme and supporting report describing the revised methods which the Contractor proposes to adopt in order to expedite progress and complete within the Time for Completion.
+Unless the Owner notifies otherwise, the Contractor shall adopt these revised methods, which may require increases in the working hours and/or in the numbers of Contractor's Personnel and/or Goods, at the risk and cost of the Contractor. If these revised methods cause the Owner to incur additional costs, the Contractor shall subject to Clause 2.4 (Owner’s Claims) pay these costs to the Owner, in addition to delay damages (if any) under Clause 7.6 (Delay Damages) below.
+Delay Damages
+If the Contractor fails to comply with Clause 7.2 (Time for Completion), the Contractor shall, subject to Clause 2.4 (Owner’s Claims) and when requested by the Owner, pay delay damages to the Owner in an amount as provided in Schedule 2 (Schedule of Payments). 
+The Parties agree that the delay damages are a genuine and reasonable pre-estimate of the damages likely to be sustained by the Owner as a result of the Contractor's breach of its obligations as set out in Clause 7.2 (Time for Completion.)
+Suspension of Work
+The Owner may at any time instruct the Contractor to suspend progress of part or all of the Works.  During such suspension, the Contractor shall protect, store and secure such part or whole of the Works (as the case may be) against any deterioration, loss or damage.
+To the extent that the cause of the suspension is due to the Contractor, the following Clause 7.8 (Consequences of Suspension), Clause 7.9 (Prolonged Suspension) and Clause 7.10 (Resumption of Work) shall not apply.
+Consequences of Suspension
+If the Contractor suffers delay and/or incurs Cost from complying with the Owner's instructions under Clause 7.7 (Suspension of Work) and/or from resuming the work, the Contractor shall give notice to the Owner and shall be entitled subject to Clause 20.1 (Contractor’s Claims) to:
+(a)	an extension of time for any such delay, if Completion is or will be delayed, under Clause 7.4 (Extension or Acceleration of Time for Completion); and
+(b)	payment of any such Cost, which shall be added to the Contract Price.
+After receiving this notice, the Owner shall proceed in accordance with Clause 20.1 (Contractor’s Claims) or Clause 3.4 (Determinations) to determine, or agree or determine, these matters (as the case may be).
+The Contractor shall not be entitled to an extension of time for, or to payment of the Cost incurred in, making good the consequences of the Contractor's faulty design, workmanship, or materials, or of the Contractor's failure to protect, store or secure in accordance with Clause 7.7 (Suspension of Work).
+Prolonged Suspension
+If the suspension under Clause 7.7 (Suspension of Work) has continued for more than [Insert number of days], the Contractor may request Owner's permission to proceed. If the Owner does not give permission within [Insert number of days] after being requested to do so, the Contractor may, by giving notice to the Owner, treat the suspension as an omission under Clause 11 (Variations and Adjustments) of the affected part of the Works. If the suspension affects the whole of the Works and continues for [Insert number of days], the Contractor may give notice of termination under Clause 15.1 (Termination by Contractor).
+Resumption of Work
+After the permission or instruction to proceed is given, the Parties shall jointly examine the Works and the Plant affected by the suspension. The Contractor shall make good any deterioration or defect in or loss of the Works, Plant, which has occurred during the suspension.
+The Contractor will be entitled to all extra Costs necessarily incurred by the Contractor in complying with its obligations under this Clause 7.10 (Resumption of Work). 
+Tests on Completion
+Contractor's Obligations
+The Contractor shall give the Owner at least [Insert number of days] advanced preliminary written notice and at least [Insert number of days] advanced final written notice, of the date on which it intends to synchronise the Works to the Grid.
+The Contractor shall, at its sole cost and expense, carry out the Tests on Completion in accordance with this Clause 8 (Tests on Completion) and the Schedule of Tests after providing the documents in accordance with Clause 5.3 (As-Built Documents). 
+The Tests on Completion shall be carried out to ascertain (among other things) whether the Works meet all Performance Guarantees simultaneously and are in conformance with the requirements of this Contract. The Owner shall be entitled at all times to witness and monitor the conduct of the Tests on Completion.  The Contractor shall notify the Owner at least [Insert number of days] prior to the date on which any Tests on Completion will be conducted. Immediately following any Test on Completion, the Contractor shall forward to the Owner duly certified copies of the results of such Test on Completion.
+Neither the witnessing nor monitoring of any Test on Completion by the Owner under this Clause ‎8 (Tests on Completion) nor Owner's failure to make, require or witness any inspection, examination, testing or re-testing of any part of the Works shall in any way relieve the Contractor of any obligations or liabilities under this Contract.
+Delayed Tests
+If the Tests on Completion are being unduly delayed by the Contractor, the Owner may by notice require the Contractor to carry out the Tests on Completion within [Insert number of days] after receiving the notice.  The Contractor shall carry out the Tests on Completion on such day or days within that period as the Contractor may fix and of which he shall give notice to the Owner.
+If the Contractor fails to carry out the Tests on Completion within the above mentioned period, the Owner's Personnel may proceed with the Tests on Completion at the risk and cost of the Contractor. These Tests on Completion shall then be deemed to have been carried out in the presence of the Contractor and the results of the Tests on Completion shall be accepted as accurate.
+Performance Guarantees Not Achieved
+If the Performance Guarantees are not achieved during the Tests on Completion, the Contractor may, at its own cost and expense make such changes or additions to the Works as may be necessary to simultaneously achieve all of the Performance Guarantees. The Contractor shall notify the Owner upon completion of such changes or additions and repeat the Tests on Completion until the Performance Guarantees have been achieved. To the extent that any such changes, additions or testing substantially denies the Owner the benefit of the Works or any part thereof, the Contractor shall be liable to the Owner (including on a pro-rata basis where such results in a partial reduction in the availability of the Works) for delay damages under Clause 7.6 (Delay Damages).  
+Performance Liquidated Damages
+Any Performance Liquidated Damages payable under Clause 8.3 (Performance Guarantees Not Achieved) are payable to the Owner as per Schedule 3 (Schedule of Performance Guarantees). The Parties agree that the Performance Liquidated Damages are a genuine and reasonable pre-estimate of the damages likely to be sustained by the Owner as a result of the Contractor's failure to achieve the Performance Guarantees and shall, except in the case of fraud, deliberate default or reckless misconduct, be the Owner's exclusive remedy for failure by the Contractor to achieve the Performance Guarantees.  If the obligation to pay Performance Liquidated Damages is found for any reason to be void, invalid or otherwise inoperative so as to disentitle the Owner to payment thereof, the Owner shall be entitled to claim against the Contractor for damages at law resulting from the Contractor's failure to achieve the Performance Guarantees.
+Owner's Taking Over
+Taking Over of the Works
+The Contractor may apply by notice to the Owner for a Taking-Over Certificate not earlier than [Insert number of days] before the Works will, in the Contractor's opinion, have achieved Completion.
+The Owner shall, within [Insert number of days] after receiving the Contractor's application:
+(a)	issue the Taking-Over Certificate to the Contractor, stating the date on which Completion occurred in accordance with the Contract, except for any minor outstanding work and defects which will not substantially affect the use of the Works for their intended purpose (either until or while this work is completed and these defects are remedied);  
+If Owner fails either to issue the Taking-Over Certificate or to reject the Contractor's application within the period of [Insert number of days], and if the Works are substantially in accordance with the Contract, the Taking-Over Certificate shall be deemed to have been issued on the last day of that period.
+Taking Over of Parts of the Works
+Parts of the Works may be taken over and used by the Owner.
+Interference with Tests on Completion
+If the Contractor is prevented from carrying out the Tests on Completion for more than [Insert number of days] due to any cause for which the Owner is responsible, the Contractor shall carry out the Tests on Completion as soon as practicable.
+If the Contractor suffers delay and/or incurs Cost as a result of this delay in carrying out the Tests on Completion, the Contractor shall give notice to the Owner and shall be entitled subject to Clause 20.1 (Contractor’s Claims) to:
+(a)	an extension of time for any such delay, if Completion is or will be delayed, under Clause 7.4 (Extension or Acceleration of Time for Completion); and
+(b)	payment of any Costs which are incurred after the date which is, and which are the result of any such delay exceeding, [Insert number of days] following the commencement of such delay, which Costs shall be added to the Contract Price.
+Notwithstanding the forgoing, upon receipt from the Contractor of a notice of delay as referred to in the previous paragraph, the Owner may at its option instruct the Contractor to de-mobilize from the Site all the Contractor Personnel whose activities are prevented or impeded by the delay in testing until such time as the Owner advises the Contractor that the impediment to testing has been resolved and instructs the Contractor to commence or resume testing. If the Contractor suffers delays as a result of Owner's instructions, the Contractor shall be entitled, subject to Clause 20.1 (Contractor’s Claims), to an extension of time under Clause 7.4 (Extension or Acceleration of Time for Completion). 
+Title to Revenues
+The Parties always acknowledge and agree that, at all time including before Completion, the Owner will have the exclusive right and title to all revenues deriving from the Project (including those for the electricity produced).
+Defects Liability 
+Completion of Outstanding Work and Remedying Defects
+The Contractor shall, within a reasonable time as instructed by the Owner, complete any Work which is outstanding as at the Time of Completion.
+If notified to the Contractor in writing during the applicable Defects Liability Period, the Contractor shall, as reasonably required and in a manner which causes as little disruption to the operation of the Works as reasonably possible, promptly repair, replace, or otherwise make good (as the Owner determines in its discretion after consultation with the Contractor), as per Schedule 6 (Defects Liability Period).
+The Contractor shall also promptly repair, replace, or otherwise make good any damage to the Works caused by a defect referred to in the preceding paragraph.
+Notwithstanding anything to the contrary contained herein, the Contractor's obligation under this Clause 10 (Defects Liability) shall not apply to any defect arising from normal wear and tear or any defect or damage resulting from:
+(A)	failures caused by accidents (except where such accidents occur during the performance of Remedial Work by the Contractor while the equipment is in its possession and control); or
+(B)	errors, misuse or negligence of the Owner or any other user of the equipment (other than the Contractor); or
+(C)	failure (other than by the Contractor) to follow Contractor's instructions or manuals or, where not former are silent, Best Industry Practice; or
+(D)	work, repairs or modifications (other than routine work, repairs or modifications conducted in accordance with the Contractor's instructions or manuals or, where the former are silent, Best Industry Practice) without the Contractor's prior written approval; or
+(E)	routine maintenance, including replacement of parts required by normal use of the equipment, other than routine maintenance conducted in accordance with the Contractor's instructions or manuals or, where the former are silent, Best Industry Practice.
+Cost of Remedying Defects
+All Remedial Work shall be executed at the risk and cost of the Contractor , if and to the extent that the work is attributable to:
+(a)	the design of the Works; or
+(b)	Plant, Materials or workmanship not being in accordance with the Contract; or
+(c)	[improper maintenance which was attributable to matters for which Contractor is responsible under the Contract under Clause 5.3 (As-Built Documents)]; or
+(d)	failure by the Contractor to comply with any other obligation under the Contract.
+If and to the extent that such Remedial Work is attributable to any other cause, the Owner shall give notice to the Contractor accordingly, and Clause 11.3 (Variation Procedure) shall apply.
+Failure to Remedy Defects
+If the Contractor fails to perform Remedial Work as per Schedule 6 (Defects Liability Period), and this Remedial Work was to be executed at the cost of Contractor under Clause 10.2 (Cost of Remedying Defects), the Owner may (at its option):
+(a)	carry out the work itself or by others, in a reasonable manner and at the Contractor's cost, and:
+(i)	the Contractor shall subject to Clause 2.4 (Owner’s Claims) pay to the Owner the costs reasonably incurred by the Owner in remedying the defect or damage, including the cost of procuring equivalent defects liability remedies in respect of such remedied work; and
+(ii)	the performance of Remedial Work by the Owner or other persons shall not, to the extent such Remedial Work is performed in accordance with Best Industry Practice, affect the Performance Guarantees or the Contractor's liability for defects in any other part of the Works;
+(b)	agree or determine a reasonable reduction in the Contract Price in accordance with Clause 3.4 (Determinations); or
+(c)	if the defect or damage deprives the Owner of substantially the whole benefit of the Works or any major part of the Works, terminate the Contract as a whole, or in respect of such major part which cannot be put to the intended use, and without prejudice to any other rights, under the Contract or otherwise, the Owner shall then be entitled to recover from the Contractor all sums paid for the Works or for such part (as the case may be), plus any amounts payable by the Owner under the Financing Agreements and the cost of dismantling the Works, clearing the Site and returning Plant to the Contractor.
+Removal of Defective Work
+If the defect or damage cannot be remedied expeditiously on the Site and the Owner gives consent, the Contractor may remove from the Site for the purposes of repair such items of Plant as are defective or damaged. 
+10.6	Further Tests
+If Remedial Work may affect the performance of the Works, the Owner may require the repetition of any of the tests described in the Contract, including the Tests on Completion. The requirement shall be made by notice within [Insert number of days] after the defect or damage is remedied.
+These tests shall be carried out in accordance with the terms applicable to the previous tests, except that they shall be carried out at the risk and cost of the Party liable, under Clause 10.2 (Cost of Remedying Defects), for the cost of the Remedial Work.
+10.7	Right of Access
+From the issue of the Taking-Over Certificate until the Acceptance Certificate has been issued, the Contractor shall have the right of access to such parts of the Works as it reasonably requests subject to:
+(a)	it having given reasonable prior notice to the Owner and the Owner having granted consent to such access;
+(b)	any such access complying with Owner's security and health and safety arrangements; and
+(c)	such access not causing any interference with the operation of the Works.
+10.8	Contractor to Search
+The Contractor shall, if required by the Owner, search for the cause of any defect, under the direction of the Owner. Unless the defect is to be remedied at the cost of the Contractor under Clause 10.2 (Cost of Remedying Defects), the Cost of the search shall be agreed or determined in accordance with Clause 3.4 (Determinations) and shall be added to the Contract Price.
+10.9	Acceptance Certificate
+The performance of Contractor's obligations shall not be considered to have been completed until the Owner has issued the Acceptance Certificate to the Contractor, stating the date on which the Contractor completed his obligations under the Contract.
+The Owner shall issue the Acceptance Certificate within [Insert number of days] after the latest of expiry of the last Defects Liability Period under the Contract and the date on which the Contractor has completed remedying any defects.
+If, after [Insert number of days] following a request by the Contractor to issue the Acceptance Certificate, the Owner has neither issued the Acceptance Certificate nor provided the Contractor with Owner's reason(s) for failing to issue the Acceptance Certificate, the Owner shall be deemed to have issued the Acceptance Certificate.   
+If the Owner fails following a request by the Contractor to issue the Acceptance Certificate as and when required by the Contract, the Contractor may refer the matter for dispute resolution in accordance with Clause 20 (Claims, Disputes and Arbitration).
+10.10	Unfulfilled Obligations
+After the Acceptance Certificate has been issued, each Party shall remain liable for the fulfilment of any obligation, including obligations implied by Applicable Laws and Approvals, which remains unperformed at that time. For the purposes of determining the nature and extent of unperformed obligations, the Contract shall be deemed to remain in force.
+10.11	Clearance of Site
+Upon receiving the Taking-Over Certificate, the Contractor shall remove any remaining the Contractor's Equipment, surplus material, wreckage, rubbish and Temporary Works from the Site. The Contractor shall at its sole cost and risk remove all temporary accommodation and welfare facilities for the Contractor's Personnel from the Site in accordance with Applicable Laws before Owner's Taking-Over. The Contractor shall be responsible (at its sole cost and risk) for evicting all the Contractor's Personnel from such temporary accommodation at the Site [and shall secure a written consent from such Contractor's Personnel that they have no rights to continue residing in the temporary accommodation on the Site, and that they have no claims against the Owner]. 
+If all these items listed above have not been removed within [Insert number of days] after the Owner issues the Taking-Over Certificate, the Owner may sell or otherwise dispose of any remaining items, except Contractor's Equipment, which the Owner may remove and store at the Contractor's risk and cost. The Owner shall be entitled to be paid the costs incurred in connection with, or attributable to, such sale, disposal removal or storage and restoration of the Site. 
+Any balance of the moneys from the sale shall be paid to the Contractor. If these moneys are less than Owner's costs, the Contractor shall pay the outstanding balance to the Owner immediately on demand.
+Variations and Adjustments
+Right to Vary
+The Variations may be initiated by the Owner prior to 60 days of issuing the Taking-Over Certificate for the Works by a request for the Contractor to submit a proposal.
+The Owner shall accept or reject the proposal of the Contractor issued against the variation requested. If the Owner accepts the proposal than the Contractor shall perform each Variation, unless the Contractor promptly gives notice to the Owner stating (with supporting particulars) that: (i) the Contractor cannot readily obtain the Goods required for the Variation, (ii) it will reduce the safety or suitability of the Works, or (iii) it will have an adverse impact on the achievement of the Performance Guarantees. Upon receiving this notice, the Owner shall cancel, confirm, or vary the instruction.
+Value Engineering
+The Contractor may, at any time, submit to the Owner a written proposal which (in Contractor's opinion) will, if adopted, (i) accelerate Completion, (ii) reduce the cost to the Owner of executing, maintaining or operating the Works, (iii) improve the efficiency or value to the Owner of the completed Works, or (iv) otherwise be of benefit to the Owner.
+The proposal shall be prepared at the cost of the Contractor and shall include the items listed in Clause 11.3 (Variation Procedure).
+Variation Procedure
+If the Owner requests a proposal prior to instructing a Variation, the Contractor shall respond in writing as soon as practicable, either by giving reasons why the Contractor cannot comply (if this is the case) or by submitting:
+(a)	a description of the proposed design and/or work to be performed and a programme for its execution;
+(b)	the Contractor's proposal for any necessary modifications to the Programme according to Clause 7.3 (Programme) and to the Time for Completion; and
+(c)	the Contractor's proposal for adjustment to the Contract Price.
+The Owner shall, as soon as practicable after receiving such proposal (under Clause 11.2 (Value Engineering) or otherwise), respond with approval, disapproval or comments. The Contractor shall not delay any work while awaiting a response.
+Each instruction to execute a Variation, with any requirements for the recording of Costs, shall be issued by the Owner to the Contractor, who shall acknowledge receipt.
+If the Contractor's proposal pursuant to this Clause 11.3 (Variation Procedure) is acceptable, the Variation shall be issued on that basis. However, if the Contractor and the Owner are unable to agree to any adjustments to the Contract Price, the Owner shall proceed in accordance with Clause 3.4 (Determinations). 
+A Variation made necessary due to any act, omission or default of the Contractor in the performance of its obligations under this Contractor will not result in any payment to the Contractor or an increase in the Contract Price nor entitle the Contractor to an extension of time.
+11.6 	No Adjustments for Changes in Costs
+The Contract Price shall not be subject to any adjustment in respect of any rise or fall in the cost of labour, materials or any other matters affecting the cost of performing the Works.
+Contract Price and Payment
+The Contract Price
+Unless otherwise stated in this Contract:
+(a)	payment for the Works shall be made on the basis of completion of the milestones specified in Schedule 3 (Schedule of Payments) and subject to adjustments in accordance with the terms of this Contract; 
+(b)	the Contract Price shall be [exclusive] of all Taxes; and
+(c)	the Contract Price shall not be adjusted on account of Taxes. 
+12.2	The Owner shall have the right to deduct or withhold Taxes on payments due to the Contractor under this Contract to the extent that such deduction or withholding may be required by any competent government authority according to the Owner (whether applicable as of the Contract Date or imposed/required by any municipal, local, state or national government authorities or any other Indian Government Instrumentality at any time during the term of this Contract). However, no such deduction or deduction at a lower rate/base shall be made, should the Contractor furnish appropriate nil or lower tax withholding certificate from the competent government authority. Payment by the Owner to such competent government authority of the amount so deducted or withheld will relieve the Owner from any further obligation to the Contractor with respect to the amount so deducted or withheld. The Owner shall issue a Tax deduction or withholding certificate to the Contractor in accordance with Applicable Laws, evidencing the Taxes deducted or withheld and deposited by the Owner on payments made to the Contractor, to enable the Contractor to claim the credit of the Tax deducted or withheld by the Owner, within the applicable statutory timeframe.
+12.3	Application for Interim Payments
+The Contractor shall submit a Statement in three copies to the Owner at the end of each calendar month in a form approved by the Owner, showing in detail the payment milestones in the Schedule of Payments achieved during such calendar month and the corresponding amounts to which the Contractor considers itself to be entitled, together with supporting documents which shall include the relevant report on progress in accordance with Sub-Clause 4.21 (Progress Reports).
+The Statement shall include the following items, as applicable, in the sequence listed:
+(a)	value of the completed payment milestones (as set out in the Schedule of Payments) carried out by the Contractor up to the end of the calendar month (including Variations but excluding items described in sub-paragraphs (b) to (e) below and a copy of the relevant milestone certificate (if any);
+(b)	any amounts to be added and deducted for changes in Applicable Laws;
+(c)	any other additions or deductions which may have become due under the Contract or otherwise, including those under Clause 8 (Tests on Completion).
+12.4	Schedule of Payments
+Unless otherwise stated in Schedule 2 (Schedule of Payments):
+(a)	the instalments quoted in Schedule 2 (Schedule of Payments) shall be the values for the purposes of Sub-Clause (a) of Clause 12.3 (Application for Interim Payments), subject to Clause 10 (Defects Liability); and
+(b)	if these instalments are not defined by reference to the actual progress achieved in executing the Works, and if actual progress is found to be less than that on which Schedule 2 (Schedule of Payments) was based, then the Owner may proceed in accordance with Clause 3.4 (Determinations) to agree or determine revised instalments, which shall take account of the extent to which progress is less than that on which the instalments were previously based.
+12.5	Interim Payments
+No amount will be paid until:
+(a)	in respect of the first and all subsequent Statements, the Performance Security in accordance with Clause 4.2 (Performance Security) have been received and approved by the Owner and remain valid and in effect; and
+(b)	in respect of each Statement, the Owner has received and approved:
+	(i)	the updated Programme in accordance with Sub-Clause 7.3 (Programme);
+	(ii)	the progress reports required under Sub-Clause 4.21 (Progress Reports); and
+(iii)	evidence in accordance with Sub-Clause 12.3 (Application for Interim Payments) that all Subcontractors have been paid for work referred to in the relevant Statement.
+Subject to Sub-Clauses (a) and (b) above, the Owner shall as soon as possible and in any event within [Insert number of days] after receiving a Statement and supporting documents give the Contractor notice of any items in the Statement with which the Owner disagrees along with supporting particulars. The undisputed portion of amounts requested in any Statement shall not be withheld, except that:
+(A)	if anything supplied or work done by the Contractor is not in accordance with the Contract, the cost of rectification or replacement may be withheld until rectification or replacement has been completed; and/or
+(B)	if the Contractor was or is failing to perform any work or obligation in accordance with the Contract, and had been so notified by the Owner, the value of this work or obligation may be withheld until the work or obligation has been performed.
+The Owner may, by any payment, make any correction or modification that should properly be made to any amount previously considered due. Payment shall not be deemed to indicate Owner's acceptance, approval, consent or satisfaction.
+12.6	Timing of Payments
+Except as otherwise stated in Clause 2.4 (Owner’s Claims), the Owner shall pay to the Contractor:
+(a)	the amount, which is due in respect of each Statement, other than the Final Statement, within [Insert number of days] after receiving the Statement and supporting documents; and
+(b)	the final amount due, within [Insert number of days] after receiving the Final Statement and written discharge in accordance with Clause 12.9 (Application for Final Payment) and Clause 12.10 (Discharge).
+Payment of the amount due shall be made into the bank account nominated by the Contractor.
+12.7	Delayed Payment 
+If either Party fails to pay any sum by the date due under the Contract, that Party shall be liable to pay the other Party interest on the unpaid sum at a rate equal to the lesser of SBAR plus [2]% per annum and the maximum interest rate permitted by Law, in each case compounded monthly until the actual payment date. The unpaid Party's entitlement to such interest shall arise automatically without requirement of any notice and shall be without prejudice to any other right or remedy.
+12.8	Statement at Completion and Application for Final Payment
+Within 14 days after receiving the Taking-Over Certificate for the Works, the Contractor shall submit to the Owner three copies of a Statement at Completion with supporting documents in accordance with Clause 12.3 (Application for Interim Payments), showing:
+(a)	the value of all work done in accordance with the Contract up to the date stated in the Taking-Over Certificate for the Works; and
+(b)	any further sums which the Contractor considers to be due, which shall be shown separately in the Statement at Completion. 
+Owner shall then give notice to the Contractor in accordance with Clause 12.5 (Interim Payments) and make payment in accordance with Clause 12.6 (Timing of Payments).
+12.9	Application for Final Payment
+Within 21 days after the end of the Defects Liability Period, the Contractor shall submit to the Owner three copies of a draft final statement with supporting documents showing in detail in a form approved by the Owner:
+(a)	the value of all work done in accordance with the Contract; and
+(b)	any further sums which the Contractor considers to be due to him under the Contract or otherwise.
+If the Owner disagrees with or cannot verify any part of the draft final statement, the Contractor shall submit such further information as the Owner may reasonably require and shall make such changes in the draft as may be agreed between them. The Contractor shall then prepare and submit to the Owner the final statement as agreed.  This agreed statement is referred to in this Contract as the "Final Statement".
+However if, following discussions between the Parties and any changes to the draft final statement which are agreed, it becomes evident that a dispute exists, then the Owner shall pay the agreed parts of the draft final statement in accordance with Clause 12.5 (Interim Payments) and Clause 12.6 (Timing of Payments). Thereafter, if the dispute is finally resolved under Clause 20 (Claims, Disputes and Arbitration), the Contractor shall then prepare and submit to the Owner a Final Statement.
+12.10	Discharge
+When submitting the Final Statement, the Contractor shall submit a written discharge which confirms that the total of the Final Statement represents full and final settlement of all moneys due to the Contractor under or in connection with the Contract. This discharge may state that it becomes effective when the Contractor has received the Performance Security and the outstanding balance of this total, in which event the discharge shall be effective on such date.
+12.11	Final Payment
+In accordance with sub-paragraph (b) of Clause 12.6 (Timing of Payments), the Owner shall pay to the Contractor the amount, which is finally due, less all amounts previously paid by the Owner and any deductions in accordance with Sub-Clause 2.4 (Owner’s Claims).
+If the amount which is finally due to the Contractor is less than the amount that the Contractor owes to the Owner, then the Contractor shall pay the difference to the Owner within [Insert number of days] following Owner's receipt of the Final Statement.
+	For avoidance of doubt, it is clarified that any payment made to the Contractor under:
+(a)	any Purchase Orders shall be treated as a relevant payment to the Contractor under this 	Contract; and
+(b)	this Contract shall be treated as a payment to the Contractor under the relevant Purchase 	Orders.
+12.12	Cessation of Owner's Liability
+The Owner shall not be liable to the Contractor for any matter or thing under or in connection with the Contract or execution of the Works, except to the extent that the Contractor shall have included an amount expressly for it:
+(a)	in the Final Statement; and
+(b)	(except for matters or things arising after the issue of the Taking-Over Certificate for the Works) in the Statement at Completion described in Clause 12.8 (Statement at Completion and Application for Final Payment).
+Acceptance by the Contractor of the final payment made by the Owner in accordance with this Clause 12 (Contract Price and Payment) shall operate as a release of the Owner by the Contractor against any future liability under this Contract.
+However, this Clause 12.12 (Cessation of Owner’s Liability) shall not limit Owner's liability under Clause 16.2 (Owner’s Indemnities), or Owner's liability in any case of fraud by the Owner.
+Representations and Warranties
+Each Party hereby represents and warrants to the other Party as follows:
+13.1	Due Organization
+It is a company duly organized, validly existing and in good standing under the Applicable Laws of the jurisdiction stated in the Contract and has all requisite power and authority to own and operate its business and properties and to carry on its business as such business is now being conducted and is duly qualified to do business in India and in any other jurisdiction in which its performance of the Contract makes such qualification necessary.
+13.2	Due Authorization; Binding Obligation
+It has full power and authority to execute and deliver the Contract and to perform its obligations hereunder, and the execution, delivery and performance of the Contract by it have been duly authorized by all necessary action on its part.  This Contract has been duly executed and delivered by it and is such Party's legal, valid and binding obligation enforceable in accordance with its terms.
+13.3	No Insolvency
+It is not in liquidation or subject to an administration order and no administrator, administrative receiver or receiver has been appointed over the whole or a substantial part of its property, assets or undertaking, and no equivalent or analogous event has occurred.
+13.4	Non-Contravention
+The execution, delivery and performance of the Contract by it and the consummation of the transactions contemplated hereby do not and will not contravene the certificate of incorporation or by-laws of such Party and do not and will not conflict with or result in a breach of or default under any indenture, mortgage, lease, agreement, instrument, judgment, decree, order or ruling to which such Party is a party or by which it or any of its properties is bound or affected.
+13.5	Commercial Interest
+The entry into and performance of the Contract by it is in its commercial interest and to its corporate benefit and the competent corporate bodies have assessed and satisfied themselves as to the existence of such corporate benefit.
+13.6	Regulatory Approvals
+All governmental or other authorizations, approvals, orders or consents required in connection with the execution, delivery and performance of the Contract by it have been obtained or will be obtained in a timely manner to allow Completion within the Time for Completion.
+13.7	Compliance with Laws 
+It has not contravened any Applicable Laws, which contravention would have an adverse effect on the Project or any license, registration, permission, consent or approval held by it in relation to the Project. Further, it has not violated any intellectual property right related laws, rules and regulations, nor does any infringement of any intellectual property rights of any third party exists.
+13.8	Continuing Representations
+Each representation and warranty given by the Contractor in this Clause 13 (Representations and Warranties) and elsewhere in the Contract shall be deemed repeated on each date on which it submits a Statement under Clause 12.3 (Application for Interim Payments).
+14.	Termination by THE Owner
+14.1	Notice to Correct
+If the Contractor fails to carry out any obligation under the Contract, the Owner may by notice require the Contractor to make good the failure and to remedy it within 60 days.
+14.2	Termination by the Owner
+In addition to the other termination events described elsewhere in this Contract, the Owner shall be entitled to terminate the Contract if the Contractor”
+(a)	fails to comply with Clause 4.2 (Performance Security) or with a notice under Clause 14.1 (Notice to Correct); or
+(b)	abandons the Works or otherwise plainly demonstrates the intention not to continue performance of his obligations under the Contract; or
+(c)	without reasonable excuse fails to proceed with the Works in accordance with Clause 7 (Commencement, Delays and Suspension); or
+(d)	subcontracts the whole of the Works, assigns the Contract without the required agreement; or
+(e)	fails to comply with any obligations in Clause 21 (Compliance); or
+(f)	is in material breach of any obligations under this Contract; or
+(g)	invokes the limitation on liability for delay damages specified in Clause 7.6 (Delay Damages); or
+(h)	invokes the limitation on liability specified in Clause 16.7 (Limitation of Liability); or
+(i)	is unable to pay its debts or if any order is made for compulsory winding up or dissolution of the Contractor by a court of competent jurisdiction, enters into any re-structuring, re-organisation, amalgamation, arrangement or compromise affecting its obligations under this Contractor that otherwise may have any material adverse effect, enters into a composition or arrangement with its creditors or moratorium is declared in respect of any of its indebtedness, goes into liquidation or is subject to an administration order or if an administrator, administrative receiver or receiver is appointed over the whole or a substantial part of the property, assets or undertaking of the Contractor, or any equivalent or analogous event occurs.
+In any of these events or circumstances, the Owner may, upon giving 30 days notice to the Contractor, terminate the Contract and require the Contractor to vacate the Site. However, in the case of sub-paragraphs (b), (g), (h) and (i), the Owner may by notice terminate the Contract immediately. In the event that this Contract is terminated in accordance with this Clause 14.2 (Termination by Owner), the Owner shall have the right to terminate all existing Purchase Orders in the same manner. 
+Owner's election to terminate the Contract shall not prejudice any other rights of the Owner, under the Contract or otherwise.
+The Contractor shall then leave the Site and deliver any required Goods, all Contractor's Documents, and other design documents made by or for the Contractor, to the Owner.  However, the Contractor shall use his best efforts to comply immediately with any reasonable instructions included in the notice for the protection of life or property or for the safety of the Works.
+Upon receipt of a notice of termination, the Contractor shall, to the extent legally possible and if the Owner so requires, assign to the Owner all right, title and benefit of the Contractor in any subcontracts between the Contractor and its Major Subcontractors, including all warranties, performance guarantees or other continuing benefits arising under such subcontracts pursuant to Clause 4.6 (Assignment of Subcontractor’s Warranties).
+After termination, the Owner may complete the Works and/or arrange for any other entities to do so.  The Owner and these entities may then use any Goods, Contractor's Documents and other design documents made by or on behalf of the Contractor.
+The Owner shall then give notice that the Contractor's Equipment and the Temporary Works will be released to the Contractor at or near the Site.  The Contractor shall arrange their removal, at its own risk and cost within 7 days.  However, if by this time the Contractor has failed to make any payment due to the Owner, the Owner shall be entitled to a lien on such Contractor's Equipment and Temporary Works until all such outstanding payments have been made.
+14.3	Valuation at the Date of Termination
+As soon as practicable after a notice of termination under Clause 14.2 (Termination by Owner) has taken effect, the Owner shall proceed in accordance with Clause 3.4 (Determinations) to agree or determine the value of the Works, Goods and Contractor's Documents, and any other sums due to the Contractor for work executed in accordance with the Contract.
+14.4	Payment after Termination
+After a notice of termination under Clause 14.2 (Termination by Owner) has taken effect, the Owner may:
+(a)	proceed in accordance with Clause 2.4 (Owner’s Claims); or
+(b)	with-hold further payments to the Contractor until the costs of design, execution, completion and remedying of any defects, damages for delay in completion (if any), and all other costs incurred by the Owner, have been established; or
+(c)	recover from the Contractor any losses and damages incurred by the Owner and any extra costs of completing the Works, after allowing for any sum due to the Contractor under Clause 14.3 (Valuation at the Date of Termination). After recovering any such losses, damages and extra costs, the Owner shall pay any balance to the Contractor.
+15.	Termination by Contractor
+15.1	Termination by the Contractor 
+The Contractor shall only be entitled to terminate the Contract if:
+(a)	If the Owner fails to pay any undisputed amounts in accordance with Clause 12.6 (Timing of Payments); or
+(b)	the Owner fails to comply with Clause 1.5 (Assignment and Novation); or
+(c)	a prolonged suspension affects the whole of the Works as described in Clause 7.9 (Prolonged Suspension); or
+(d)	the Owner is unable to pay its debts or if any order is made for compulsory winding up or dissolution of Owner by a court of competent jurisdiction, enters into any re-structuring, re-organisation, amalgamation, arrangement or compromise affecting its obligations under this Contractor that otherwise may have any material adverse effect, enters into a composition or arrangement with its creditors or moratorium is declared in respect of any of its indebtedness, goes into liquidation or is subject to an administration order or if an administrator, administrative receiver or receiver is appointed over the whole or a substantial part of the property, assets or undertaking of the Owner, or any equivalent or analogous event occurs.
+In any of these events or circumstances, the Contractor may, upon giving [Insert number of days] prior written notice to the Owner, terminate the Contract, except that in the case of sub-paragraph (d) above, the Contractor may by written notice terminate the Contract immediately. In the event that this Contract is terminated in accordance with this Clause 15.1 (Termination by Contractor), the Contractor shall have the right to terminate all existing Purchase Orders in the same manner. 
+Contractor's election to terminate the Contract shall not prejudice any other rights of the Contractor, under the Contract or otherwise.
+In the event of a default by the Owner, and to the extent such default remains outstanding but has not yet given rise to a Contractor's right to terminate in accordance this Clause 15.1 (Termination by Contractor), the Contractor may not in any way refuse or delay the fulfilment of its obligations arising from the Contract with respect to the Project.
+15.2	Cessation of Works and Removal of Contractor's Equipment
+After a notice of termination under Clause 14.5 (Owner’s Termination for Convenience), Clause 15.1 (Termination by Contractor) or Clause 18.6 (Optional Termination, Payment and Release) has taken effect, the Contractor shall promptly:
+(a)	cease all further work, except for such work as may have been instructed by the Owner for the protection of life or property or for the safety of the Works;
+(b)	hand over the Contractor's Documents, Plant and other work, for which the Contractor has received payment; and
+(c)	remove all other Goods (including all temporary accommodations) from the Site, except as necessary for safety, and leave the Site.
+15.3	Payment on Termination
+After a notice of termination under Clause 15.1 (Termination by Contractor) has taken effect, the Owner shall promptly return the Performance Security to the Contractor and pay the Contractor in accordance with Clause 18.6 (Optional Termination, Payment and Release).
+16.	Risk and Responsibility
+16.1	Contractor's Indemnities
+The Contractor shall indemnify and hold harmless the Owner, Owner's Personnel, and their respective agents, against and from claims, damages, losses and expenses (including legal fees and expenses) in respect of:
+(a)	bodily injury, sickness, disease or death, of any person whatsoever arising out of or in the course of or by reason of the design, execution and completion of the Works and the remedying of any defects, unless attributable to any negligence, wilful act or breach of the Contract by the Owner, Owner's Personnel, or any of their respective agents;
+(b)	damage to or loss of any property, real or personal (other than the Works), to the extent that such damage or loss:
+(i)	arises out of or during the design, execution and completion of the Works and the remedying of any defects; and
+(ii)	is not attributable to any negligence, wilful act or breach of the Contract by the Owner, Owner's Personnel, their respective agents, or anyone directly or indirectly employed by any of them;
+(c)	Contractor's failure to comply with any Applicable Laws applicable to the performance of the Works; 
+(d)	Contractor's failure to pay Taxes; 
+(e)	claims by any relevant authority or Indian Government Instrumentality for additional Taxes (to the extent such additional Taxes are not covered by Clause 12.5 (Adjustment for Changes in Taxes);  and
+(f)	any defect in title, lien or encumbrance on any Plant or Material supplied pursuant to the Contract.
+16.2	Owner's Indemnities
+The Owner shall indemnify and hold harmless the Contractor, Contractor's Personnel, and their respective agents, against and from all claims, damages, losses and expenses (including legal fees and expenses) in respect of:
+(a)	bodily injury, sickness, disease or death, of any person whatsoever directly caused by the Owner, Owner's Personnel, or any of their respective agents present at the Site, unless attributable to any negligence, wilful act or breach of the Contract by the Contractor, Contractor's Personnel, or any of their respective agents;
+(b)	damage to or loss of any property, real or personal (other than the Works), to the 	extent that such damage or loss:
+(i)	is directly attributable to or caused by any negligence, wilful act or breach of the Contract by the Owner, Owner's Personnel, their respective agents present at the Site; and
+(ii)	is not attributable to any negligence, wilful act or breach of the Contract by the Contractor, Contractor's Personnel, their respective agents, or anyone directly or indirectly employed by any of them;
+(c)	Owner's failure to comply with any Applicable Laws applicable to the performance of its obligations under the Contract.
+16.3	Contractor's Care of the Works
+The Contractor shall take full responsibility for the care of the Works and Goods from the Contract Date until the Owner has issued (or is deemed to have issued) the Taking-Over Certificate, when the responsibility for care of the Works shall pass to the Owner.
+After the responsibility has accordingly passed to the Owner, the Contractor shall take responsibility for the care of any work which is outstanding on the date the Owner issues (or is deemed to have issued) the Taking-Over Certificate, until this outstanding work has been completed.
+If any loss or damage happens to the Works, Goods or Contractor's Documents during the period when the Contractor is responsible for their care, from any cause not listed in Clause 16.4 (Owner’s Risk), the Contractor shall rectify the loss or damage at Contractor's risk and cost, so that the Works, Goods and Contractor's Documents conform to the Contract.
+The Contractor shall be liable for any loss or damage caused by any actions performed by the Contractor after a Taking-Over Certificate has been issued.  The Contractor shall also be liable for any loss or damage which occurs after a Taking-Over Certificate has been issued and which arose from a previous event for which the Contractor was liable.
+16.4	Owner's Risks
+The risks referred to in Clause 16.5 (Consequences of Owner’s Risk) below are:
+(a)	war, hostilities (whether war be declared or not), invasion, act of foreign enemies;
+(b)	rebellion, terrorism, revolution, insurrection, military or usurped power, or civil war, within the state where the Project is located;
+(c)	riot, commotion or disorder within the state where the Project is located by persons other than Contractor's Personnel and other employees of the Contractor and the Subcontractors;
+(d)	munitions of war, explosive materials, ionising radiation or contamination by radioactivity, within the state where the Project is located, except as may be attributable to the Contractor's use of such munitions, explosives, radiation or radioactivity; and
+(e)	pressure waves caused by aircraft or other aerial devices travelling at sonic or supersonic speeds.
+16.5	Consequences of Owner's Risks
+If and to the extent that any of the risks listed in Clause 16.4 (Owner’s Risks) above results in loss or damage to the Works, Goods or Contractor's Documents, the Contractor shall promptly give notice to the Owner and shall rectify this loss or damage to the extent required by the Owner.
+If the Contractor suffers delay and/or incurs Cost from rectifying this loss or damage, the Contractor shall give a further notice to the Owner and shall be entitled subject to Clause 20.1 (Contractor’s Claims) to:
+(a)	an extension of time for any such delay, if Completion is or will be delayed, under Clause 7.4 (Extension or Acceleration of Time for Completion); and
+(b)	payment of any such Cost, which shall be added to the Contract Price.
+After receiving this notice, the Owner shall proceed in accordance with Clause 20.1 (Contractor’s Claims) or Clause 3.4 (Determinations) to determine, or agree or determine, these matters.
+16.6	Infringement of Intellectual Property
+In this Sub-Clause, "infringement" means an infringement (or alleged infringement) of any Intellectual Property right relating to the Works; and "claim" means a claim (or proceedings pursuing a claim) alleging an infringement.
+The Owner shall indemnify and hold the Contractor harmless against and from any claim alleging an infringement which is or was a result of any Works being used by the Owner:
+(a)	for a purpose other than that indicated by, or reasonably to be inferred from, the Contract; or
+(b)	in conjunction with anything not supplied by the Contractor, unless such use was disclosed to the Contractor prior to the Contract Date or is stated in the Contract.
+The Contractor shall indemnify and hold the Owner harmless against and from any other claim which arises out of or in relation to (i) Contractor's design, manufacture, construction or execution of the Works, (ii) the use of Contractor's Equipment, or (iii) the proper use of the Works.
+If a Party is entitled to be indemnified under this Clause 16.6 (Infringement of Intellectual Property), the indemnifying Party may (at its cost) conduct negotiations for the settlement of the claim, and any litigation or arbitration which may arise from it. The other Party shall, at the request and cost of the indemnifying Party, assist in contesting the claim. This other Party (and its personnel) shall not make any admission which might be prejudicial to the indemnifying Party, unless the indemnifying Party failed to take over the conduct of any negotiations, litigation or arbitration upon being requested to do so by such other Party.
+16.7	Limitation of Liability
+Neither Party shall be liable to the other Party for events including but not limited to loss of use of any Works, loss of profit, loss of any contract or for any other similar type of indirect or consequential loss or damage which may be suffered by the other Party in connection with the Contract. The Parties acknowledge and agree that any amounts payable under Clause 7.6 (Delay Damages), Clause 8.4 (Performance Liquidated Damages), Clause 15.3 (Payment on Termination) and Clause 16.1 (Contractor’s Indemnities) shall not be considered loss of use, loss or profit, loss of contract or indirect or consequential loss or damage as referred to in the foregoing sentence.
+Notwithstanding anything to the contrary in this Contract, the total liability of the Contractor to the Owner under or in connection with the Contract other than under Clause 16.6 (Infringement of Intellectual Property) and any amounts which the Contractor is required to expend in excess of the Contract Price in order to complete the Works in accordance with the terms of this Contract, shall not exceed an amount equal 10% (ten percent) to the Contract Price.
+This Clause 16.7 (Limitation of Liability) shall not limit liability in the event of fraud, deliberate default or reckless misconduct, negligence, wilful act or omission or breach of Contract by the defaulting Party or liability that cannot be excluded as a matter of Applicable Laws.
+17.	Insurance
+The Contractor shall:
+(a)	at its sole cost and expense, obtain, maintain and keep in full force and effect during the term of this Contract (or for such longer term as may be required by Schedule 9 (Insurance Requirements); and
+(b)	require all Subcontractors to obtain, maintain and keep in full force and effect throughout the time during which they are engaged to perform any Work on Site,
+insurance in accordance with and meeting the requirements set forth in the relevant sections of Schedule 9 (Insurance Requirements) and any further insurance as the Contractor may be required to procure and maintain in effect under Applicable Laws and Approvals.
+18.	Force Majeure
+18.1	Definition of Force Majeure
+(a)	In this Clause, Force Majeure means any exceptional event including but not limited to circumstance listed in Clause 18.1(b) and:
+(i)	which is beyond a Party's control;
+(ii)	which such Party could not reasonably have provided against before entering into the Contract;
+(iii)	which, having arisen, such Party could not have avoided or overcome even if the Party had taken  reasonable care and complied with Best Industry Practice; and
+(iv)	which is not substantially attributable to the other Party.
+(b)	Force Majeure includes any of the exceptional events or circumstances of the kind listed below, so long as conditions in Clause 18.1(a) above are satisfied:
+(i)	war (whether declared or not), invasion and armed conflict or act of foreign enemies;
+(ii)	riot, terrorism, revolution, insurrection, or military action;
+(iii)	ionising radiation or contamination by radioactivity, from a source in India or 	resulting from another Force Majeure event mentioned above excluding 	circumstances where the source or cause of contamination or radiation is brought or 	has been brought into or near the Project by the Party claiming Force Majeure or 	those employed or engaged by such Party; 
+(iv)	natural catastrophes such as   earthquake, hurricane, typhoon, flood, cloudburst or volcanic activity;
+(iv)	loss of any Right-of-Way due to any cause listed in this Clause 18.1(b) where no alternative Right-of-Way exists. 
+(c)	Notwithstanding any other provision of this Contract, the following events are deemed not to be 'Force Majeure':
+(i)	any acts or omissions by the affected Party's suppliers or Subcontractors; or
+(ii)	economic hardship; or
+(iii)	shortages, late delivery or price fluctuations (including as a result of currency 	fluctuations) with respect to materials, supplies or components of equipment or 	other works; or
+(iv)	shortages of manpower; or 
+
+18.2	Notice of Force Majeure
+If a Party is or will be prevented from performing any of its obligations under the Contract by Force Majeure, then it shall give notice to the other Party of the event or circumstances constituting the Force Majeure and shall specify the obligations, the performance of which is or will be prevented.  The notice shall be given within [Insert number of days]  after the Party became aware, or should have become aware, of the relevant event or circumstance constituting Force Majeure.
+Provided that such notice shall be a pre-condition to such Party's entitlement to claim relief under this Contract, such notice shall include full particulars of the event of Force Majeure, its effects on such Party and the remedial measures proposed. The affected Party shall give the other Party regular (and not less than monthly) reports on the progress of those remedial measures and such other information as the other Party may reasonably request about the Force Majeure event.  The Affected Party shall give notice to the other Party of: 
+(a)	the cessation of the relevant event of Force Majeure; and 
+(b)	the cessation of the effects of such event of Force Majeure on the performance of its rights or obligations under this Contract, 
+as soon as practicable after becoming aware of each of these cessations. 
+The Party shall, having given notice, be excused from performance of such obligations for so long as such Force Majeure prevents it from performing them.
+Notwithstanding any other provision of this Clause 18.2, Force Majeure shall not apply to obligations of either Party to make payments to the other Party under the Contract.
+18.3	Duty to Minimise Delay
+Each Party shall at all times use all reasonable endeavours to minimise any delay in the performance of the Contract as a result of Force Majeure.
+A Party shall give notice to the other Party when it ceases to be affected by the Force Majeure.
+18.4	Consequences of Force Majeure
+If the Contractor is prevented from performing any of its obligations under the Contract by Force Majeure of which notice has been given under Clause 18.2 (Notice of Force Majeure) and Completion is or will be delayed as a result, the Contractor shall be entitled subject to Clause 20.1 (Contractor’s Claims) to an extension of time (but not reimbursement of any associated Cost) for any such delay under Clause 7.4 (Extension or Acceleration of Time for Completion). After receiving this notice, the Owner shall proceed in accordance with Clause 3.4 (Determinations) to determine this matter.
+18.5	Force Majeure Affecting Subcontractor
+If any Subcontractor is entitled under any contract or agreement relating to the Works to relief from force majeure on terms additional to or broader than those specified in this Clause, such additional or broader force majeure events or circumstances shall not excuse Contractor's non-performance or entitle him to relief under this Clause.
+18.6 	Optional Termination, Payment and Release
+If the execution of substantially all the Works in progress is prevented for a continuous period of [Insert number of days]  by reason of Force Majeure of which notice has been given under Clause 18.2 (Notice of Force Majeure), then either Party may give to the other Party a notice of termination of the Contract. In this event, the termination shall take effect [Insert number of days] after the notice is given, and the Contractor shall proceed in accordance with Clause 15.2 (Cessation of Works and Removal of Contractor’s Equipment).
+Upon such termination, the Owner shall only be required to pay to the Contractor:
+(a)	the amounts payable for any work carried out up to the date of termination for which a price is stated in the Contract;
+(b)	any other Cost or liability which in the circumstances was reasonably incurred by the Contractor in the expectation of completing the Works;
+(c)	the Cost of removal of Temporary Works and Contractor's Equipment from the Site and the return of these items to the Contractor's works in its country of origin (or to any other destination at no greater cost); and
+(d)	the Cost of repatriation of the Contractor's staff and labour employed wholly in connection with the Works at the date of termination.
+18.7	Release from Performance under the Applicable Laws
+Notwithstanding any other provision of this Clause, if any event or circumstance outside the control of the Parties (including Force Majeure) arises which makes it impossible or unlawful for either or both the Parties to fulfil its or their contractual obligations or which, under the law governing the Contract, entitles the Parties to be released from further performance of the Contract, then upon notice by either Party to the other Party of such event or circumstance:
+(a)	the Parties shall be discharged from further performance, without prejudice to the rights of either Party in respect of any previous breach of the Contract; and
+(b)	the sum payable by the Owner to the Contractor shall be the same as would have been payable under Clause 18.6 (Optional Termination, Payment and Release) if the Contract had been terminated under Clause 18.6 (Optional Termination, Payment and Release).
+19.	CHANGE IN LAWS 
+19.1	Definitions
+	"Change in Law" shall mean the occurrence of any of the following events after the Effective Date resulting into any additional recurring/ non-recurring expenditure by the Owner or any income to the Owner: 
+(a)	the enactment, coming into effect, adoption, promulgation, amendment, 
+	modification or repeal (without re-enactment or consolidation) in India, of any law, 
+	including rules and regulations framed pursuant to such law; 
+(b)	a change in the interpretation or application of any law by any, 
+	Governmental Instrumentality having the legal power to interpret or apply such Law, 
+	or any competent court of law;
+(c)	the Imposition of a requirement for obtaining any Approvals, consents, clearances and permits which was not required earlier; 
+(e)	a change in the terms and conditions prescribed for obtaining any Approvals, consents, 
+clearances and permits or the inclusion of any new terms or conditions for obtaining 
+such Approvals, consents, clearances and permits; except due to any default of the Contractor; and 
+(f)	any change in Taxes and duties or introduction of any Tax or duties made applicable for the Contractor as per the terms of this Contract. 
+	but shall not include (i) any change in any withholding tax on income or dividends distributed to the shareholders of the Owner, or (ii) any change on account of regulatory measures by the Government Instrumentality. 
+
+19.2	Notification of Change in Law
+If the Contractor is affected by a Change in Law in accordance with Clause 19.1 (Definitions) and wishes to Claim relief for such Change in Law, it shall give notice to the Owner of such Change in Law as soon as reasonably practicable but not later than 14 days after becoming aware of the same. Any notice served pursuant to this Clause shall provide, amongst other things, precise details of the Change in Law and its effect on the Contract Price. After receiving the notice the Owner shall proceed to determine these matters and shall consult the Contractor in an endeavour to reach an agreement. If the agreement is not reached, the Owner shall make a fair determination in accordance with the Contract, taking due regard of all relevant circumstances. The Owner shall give notice to the Contractor of each agreement or determination, with supporting particulars. Each Party shall give effect to each agreement or determination, unless the Contractor gives notice, to the Owner, of its dissatisfaction with a determination within [Insert number of days] of receiving it. Either Party may then refer the dispute to be resolved in terms of dispute resolution mechanism set out in Clause 20 (Claims, Disputes and Arbitration).
+19.3	Relief for Change in Law	
+The Contractor claiming compensation for Change in Law shall provide to the Owner documentary proof of any increase in Contract Price for establishing the impact of Change in Law. 
+20.	Claims, Disputes and Arbitration
+20.1	Contractor's Claims
+If the Contractor considers itself to be entitled to any extension of the Time for Completion and/or any additional payment, under any Clause 20.1 of this Contract or otherwise in connection with the Contract, the Contractor shall give notice to the Owner, as soon as practicable, but in any event not later than [Insert number of days] after the Contractor became aware, or should have become aware, of the event or circumstance, which notice shall, to the extent applicable, include details of:
+(a)	the material circumstances of the event, including the cause or causes;
+(b)	the nature and extent of the delay and additional Cost caused by the event;
+(c)	the corrective action undertaken or to be undertaken;
+(d)	the effect on the critical path identified in the most recent Owner approved Programme;
+(e)	the period, if any, by which in Contractor's opinion the Time for Completion should be extended; and
+(f)	where the Contractor considers that such event entitles it to an extension of time, a statement that it is a notice pursuant to Clause 7.4 (Extension or Acceleration of Time for Completion) and this Clause 20.1 (Contractor’s Claims) of the Contract.
+If the Contractor fails to give complete notice of a claim in accordance with the requirements of this Clause 20.1 (Contractor’s Claims) within such period of [Insert number of days], the Time for Completion shall not be extended, the Contractor shall not be entitled to additional payment, and the Owner shall be discharged from all liability in connection with the claim.  Otherwise, the following provisions of this Clause 20.1 (Contractor’s Claims) shall apply.
+The Contractor shall also submit any other notices which are required by the Contract, and supporting particulars for the claim, all as relevant to such event or circumstance.
+The Contractor shall keep such contemporary records as may be necessary to substantiate any claim, either on the Site or at another location acceptable to the Owner. Without admitting liability, the Owner may, after receiving any notice under this Clause, monitor the record-keeping and/or instruct the Contractor to keep further contemporary records.  The Contractor shall permit the Owner to inspect all these records, and shall (if instructed) submit copies to the Owner.
+Within [Insert number of days]  after the Contractor became aware (or should have become aware) of the event or circumstance giving rise to the claim, or within such other period as may be proposed by the Contractor and approved by the Owner, the Contractor shall send to the Owner a fully detailed claim which includes full supporting particulars of the basis of the claim and of the extension of time and/or additional payment claimed.  If the event or circumstance giving rise to the claim has a continuing effect:
+(i)	this fully detailed claim shall be considered as interim;
+(ii)	the Contractor shall send further interim claims at intervals of [Insert number of days], giving the accumulated delay and/or amount claimed, and such further particulars as the Owner may reasonably require; and
+(iii)	the Contractor shall send a final claim within [Insert number of days] after the end of the effects resulting from the event or circumstance.
+Within [Insert number of days] after receiving a claim or final claim (as the case may be), the Owner shall respond with approval, or with disapproval and detailed comments. The Owner may also request any necessary further particulars, but shall nevertheless give its response on the principles of the claim within such time.
+Each interim payment shall include such amounts for any claim as have been reasonably substantiated as due under the relevant provision of the Contract. Unless and until the particulars supplied are sufficient to substantiate the whole of the claim, the Contractor shall only be entitled to payment for such part of the claim as he has been able to substantiate.
+The Owner shall determine the extension (if any) of the Time for Completion (before or after its expiry) in accordance with Clause 7.4 (Extension or Acceleration of Time for Completion), and/or in accordance with Clause 3.4 (Determinations) to agree or determine the additional payment (if any) to which the Contractor is entitled under the Contract.
+The requirements of this Clause are in addition to those of any other Clause which may apply to a claim.  If the Contractor fails to comply with this or another Clause in relation to any claim, any extension of time and/or additional payment shall take account of the extent (if any) to which the failure has prevented or prejudiced proper investigation of the claim, unless the claim is excluded under the second paragraph of this Clause.
+20.2	Arbitration
+Either Party may upon written notice to the other Party require that any dispute or difference arising out of or in connection with the Contract be finally settled under the Rules of Arbitration and conciliation Act, 1996 by three arbitrators appointed in accordance with the Indian Rules (an "Arbitral Tribunal"). The arbitration shall be conducted in English, and the venue of the arbitration will be [Ahmedabad .]
+The Parties shall ensure that any arbitrator appointed to act under this Clause 20.2 (Arbitration) will agree to be bound to certain confidentiality obligations with respect to the terms of the Contract and any information obtained during the course of the arbitration proceedings. The award of the arbitrators shall be final and binding on the Parties.
+20.3    	Continuation of Performance
+Performance of this Contract shall continue during any dispute resolution process referred to in this Clause 20 (Claims, Disputes and Arbitration) unless Owner orders suspension in accordance with this Contract.  No payment due or payable by Owner or Contractor under this Contract shall be withheld on account of a pending reference to arbitration or other dispute resolution mechanism except to the extent that such payment is the subject of such dispute. 
+21.	Compliance
+The Contractor shall comply fully with the Owner’s HSE terms which are attached hereto as Schedule 12 (Owner's HSE Policy and Requirements) and which have the same force and effect as though set forth herein in full.
+22.	Financing of Project
+The Contractor shall provide all documents and other technical assistance as the Owner may request in connection with obtaining financing for the Project, including without limitation consents to assignment as per the format provided by the Owner (or as the Owner may otherwise reasonably require), certifications, representations, estoppel certificates and opinions of counsel addressed to the Owner. 
+23.	Miscellaneous
+23.1	Severability
+The invalidity, in whole or in part, of any of the provisions of this Contract will not affect the validity of the remainder of this Contract.
+       Entire Agreement
+This Contract, including any schedules or exhibits hereto and all amendments hereto, contains the complete agreement between the Owner and Contractor with respect to the matters contained herein and supersedes all other agreements, whether written or oral, with respect to the matters contained therein.  No modification, amendment, or other change will be binding on any Party unless consented to in writing by both Parties.  
+       Waiver
+Failure by either Party to exercise any of its rights under this Contract shall not constitute a waiver of such rights.  Neither Party shall be deemed to have waived any right resulting from any failure to perform by the other unless it has made such waiver specifically in writing.
+       Counterparts
+This Contract may be executed in any number of counterparts, all of which, taken together, shall constitute one and the same instrument, and any Party (including any duly authorised representative of a Party) may enter into this Contract by executing a counterpart. Facsimile, portable document format (PDF) and other electronic or digital signatures to this Contract shall have the same effect as original signatures.
+       Further Assurances 
+The Parties shall, in good faith, execute and do (or cause to be executed and done by any other necessary party within their control) all such deeds, documents, acts and things as may from time to time be required, or as otherwise may be necessary, to consummate the transactions contemplated hereby and give full force and effect to this Contract. 
+The Parties shall take all steps necessary to give full effect to this Contract, including by execution of documents and undertakings, exercising their voting rights and causing its directors to exercise their voting rights, obtaining all Approvals and otherwise extending all such co-operation as may be required in this regard.
+       Compliance with Anti-Bribery and Anti-Corruption Practices and Laws
+
+The Contractor represents, warrants and undertakes that, in connection with this Contract:
+(i)   It shall observe and comply with all Anti-Bribery and Corruption Laws in the performance of this Contract; and
+(ii) 	without prejudice to the generality of the foregoing paragraph (a), neither it nor its Affiliates, directors, employees, agents, contractors and Subcontractors have, in connection with this Contract, requested, made, offered or authorized or will request for, make, offer or authorize, any payment, gift, promise or other advantage, whether directly or through any other third party, to or for the use or benefit of any Government Instrumentality or any person where such payment, gift, promise or other advantage would:
+
+comprise a facilitation payment; 
+
+induce or reward for doing or forbearing to do or for having done or forborne to do any act in relation to this Contract or showing or 
+
+forbearing to show favour or disfavor to any person in relation to this Contract; and/or;
+ 
+violate any Anti-Bribery Laws. 
+
+The Contractor undertakes to immediately notify the Owner if in connection with this Contract it receives or becomes aware of any request from the Government Authority or any person asking for, receiving or attempting to obtain gratification or financial or other advantage for themselves or for others, including those mentioned in Clause 23.6(a)(ii).
+
+The Contractor confirms and acknowledges that its appointment by Owner is expressly made on the basis that the Anti-Bribery and Corruption Laws would not be violated and  that it shall conduct itself in a manner consistent to Owner’s code of conduct, as may be updated from time to time. 
+
+The Contractor represents and warrants that neither it nor any of its Affiliates, directors, employees, agents, contractors and Subcontractors is Government Instrumentality or other person who could assert illegal influence on behalf of Owner or its Affiliates. If any of the foregoing becomes a Government Instrumentality, the Contractor shall promptly notify the Owner.
+
+The Contractor represents, always warrants and undertakes that, it, its Affiliates and their respective directors, employees, agents, contractors and Subcontractors have not and will not engage in any activities that may contravene any Applicable Sanctions and/or any Anti-Money Laundering Laws. Without prejudice to the generality of the foregoing, the Contractor shall comply with the Applicable Sanctions and shall not conduct business with individuals, entities, organizations or countries that are targets of any Applicable Sanctions. Without prejudice to the generality of the foregoing, neither Party shall, directly or indirectly, make funds available to any subsidiary, joint venture partner or other person or entity, for the purpose of financing the activities or any person, or in any country or territory, that at the time of such funding, is subject to any Applicable Sanctions. 
+
+For the purpose of this Clause "Applicable Sanctions" means any sanctions, as may be added, amended, supplemented, and modified from time to time, administered by authority or jurisdiction applicable to a Party or to its business, and any applicable Indian Law  and regulations pertaining to the detection, prevention and reporting of potential money laundering and terrorist financing activities.
+
+In the event the Owner has reason to believe that a breach of any of the representations and warranties, and undertakings in this Clause has occurred or may occur, Owner may either immediately terminate the Contract or otherwise suspend the Contract until such time as it has received confirmation to its satisfaction that no breach or non-compliance has occurred or will occur.
+
+The Owner shall not be liable to the Contractor for any claims, losses or damages whatsoever related to its decision to terminate and/or suspend the Contract due to the Contractor’s non-compliance with this Clause. Further, in the event of a breach or non-compliance of this Clause 23.6, the Contractor shall indemnify, defend, and hold harmless Owner and Owner’s Affiliates from and against any and all losses, damages, claims, expenses (including legal costs), fine and penalties arising out of the Contractor's representations being untrue or arising out of the Contractor's breach of any of its representations and warranties and/or undertakings in this Clause 23.6 (Compliance with Anti-Bribery and Anti-Corruption Practices and Laws).
+       Applicable Trade Sanctions
+
+The Contractor shall represent and warrant that for the Works being undertaken at Site, this Contract shall:
+
+(i)	not be subject to any sanctions in respect of such goods, services or technology, or subject to any sanctions, restrictions or bans in connection with the end-use of such goods, services or technology, or that would otherwise be in conflict with applicable sanction Laws;
+
+(ii)	where the Contractor or any person acting on its behalf, violates the provisions of this clause (Applicable Trade Sanctions), the Owner shall be entitled to terminate this Contract with immediate effect and the Contractor shall indemnify and hold harmless the Owner in connection with any loss, costs, expenses arising as a result of such violation; and 
+
+(iii)	If there is unforeseen trade sanction impacting the Works, the Contractor would find an alternative solution and for the delay in supplies of that part extension of time shall be provided.
+
+The Contractor shall promptly inform the Owner of any event or circumstances which result in any of the representations and warranties set forth in Clause 25 (Applicable Trade Sanctions) above becoming false or misleading. The Owner shall have the right to seek information from the Contractor in relation to any of the aforesaid at any time. Provided that in case of a breach of any of the representations and warranties set forth in Clause 23.7 (Applicable Trade Sanctions) above, the Contractor shall forthwith give notice to the Owner. 
+
+IN WITNESS WHEREOF THIS CONTRACT HAS BEEN EXECUTED BY THE PARTIES ON THE DATE WHICH APPEARS FIRST ON PAGE 1
+Signatories
+  SIGNED as a contract.
+                                                                                                 
+
+		ONWER’S REQUIREMENT AND TECHNICAL SPECIFICATIONS 
+
+[Drafting Note: To be provided by the_______]
+
+
+Schedule of Payments
+1.	Contract Price
+The Contract Price is the fixed lump sum in [Rupees] identified as such in the table below:
+[■]
+2. 	Liquidated payments 
+[■]
+3.	Payment Milestones
+The table below shows the physical milestones that must be completed as one of the pre-conditions to submission of a request for payment of the corresponding portion of the Contract Price in a Statement under Clause 12.3 (Application for Interim Payment) of the Contract (the Owner shall determine whether each milestone has been completed and shall certify such completion in writing).
+[Drafting Note: Payment Milestones to be inserted based on commercial understanding of the Parties]
+
+
+
+Schedule of Performance Guarantees
+[Drafting Note: To be inserted by________]
+
+Schedule of Tests
+[Drafting Note: To be inserted by the _______]
+
+Form of Performance Security
+
+[Drafting Note: To be provided by the ________]
+
+  
+DEFECTS LIABILITY PERIOD
+
+[Drafting Note: To be provided by the ________]
+
+
+Approved List of Major Subcontractors
+[Drafting Note: To be proposed by Contractor and approved by the Owner prior to execution]
+
+
+Programme Specifications
+[Drafting Note: To be inserted by ________]
+
+Insurance Requirements
+
+[Drafting Note: To be provided by the ________]
+
+SCHEDULES 10
+CONTRACTOR’S DOCUMENTS 
+
+[Drafting Note: To be provided by the Contractors – AE commercial/technical team to review]
+
+SCHEDULE 11
+Contractor's Representatives
+[To be provided by Contractor and approved by Owner]
+Project Manager:	[l]
+Site Manager:	[l]
+Health and Safety Manager:	[l]
+
+
+
+SCHEDULE 12
+
+OWNER'S HSE POLICY  AND REQUIREMENTS
+
+[Drafting Note: To be provided by the ________]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
