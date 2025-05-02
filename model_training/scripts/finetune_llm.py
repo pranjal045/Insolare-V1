@@ -4,9 +4,9 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer, Trai
 import datasets
 
 def load_configs():
-    with open("configs/base_model.yml", 'r') as f:
+    with open("model_training/config/base_model.yaml", 'r') as f:
         base_config = yaml.safe_load(f)
-    with open("configs/training_params.json", 'r') as f:
+    with open("model_training/config/training_params.json", 'r') as f:
         training_params = json.load(f)
     return base_config, training_params
 
@@ -23,8 +23,7 @@ def main():
     training_args = TrainingArguments(
         output_dir='./results',
         num_train_epochs=training_params["epochs"],
-        per_device_train_batch_size=training_params["batch_size"],
-        evaluation_strategy="epoch"
+        per_device_train_batch_size=training_params["batch_size"]
     )
 
     trainer = Trainer(

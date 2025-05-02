@@ -1,4 +1,1 @@
-model_name: "legalbert-base-uncased"
-max_seq_length: 512
-learning_rate: 2e-5
-dropout: 0.1
+model_name: distilbert-base-uncased
