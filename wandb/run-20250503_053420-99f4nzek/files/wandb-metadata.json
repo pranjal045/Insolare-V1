@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.12",
+  "startedAt": "2025-05-03T05:34:20.466597Z",
+  "program": "/content/Insolare-V1/model_training/scripts/finetune_llm.py",
+  "codePath": "model_training/scripts/finetune_llm.py",
+  "git": {
+    "remote": "https://github.com/pranjal045/Insolare-V1.git",
+    "commit": "2c083ba5f074e3bfe0633d228a616128273e3542"
+  },
+  "email": "pran04146@gmail.com",
+  "root": "/content/Insolare-V1",
+  "host": "b20233b8d138",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "model_training/scripts/finetune_llm.py",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "disk": {
+    "/": {
+      "total": "115658190848",
+      "used": "40262467584"
+    }
+  },
+  "memory": {
+    "total": "13608370176"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  }
+}
